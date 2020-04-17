@@ -1,0 +1,59 @@
+class,question,side,guess
+Calc,15,older,28
+Calc,15,Older,32
+Calc,15,older,26
+Calc,15,older,38
+Calc,15,older,30
+Calc,15,Older,35
+Calc,15,older,35
+Calc,15,older,32
+Calc,15,Older,29
+Calc,15,older?,34
+Calc,65,younger,25
+Calc,65,Younger than 65 years old.,25
+Calc,65,younger,39
+Calc,65,younger than 65 years old,35
+Calc,65,Younger,28
+Calc,65,Younger,47
+Calc,65,Younger,35
+Calc,65,Younger,35
+Calc,65,Younger,35
+Calc,65,Younger,39
+Stats,15,elder,30
+Stats,15,older,27
+Stats,15,older,25
+Stats,15,older,32
+Stats,15,older,29
+Stats,15,older,30
+Stats,15,older,35
+Stats,15,Older,27
+Stats,15,older,34
+Stats,15,older,32
+Stats,15,Older,20
+Stats,15,Older,33
+Stats,15,older ,27
+Stats,15,Older ,40
+Stats,15,Older than,33
+Stats,15,Older than 15 years old,45
+Stats,15,older than 15 years old,26
+Stats,65,younger,60
+Stats,65,Younger than 65 years old,38
+Stats,65,Younger,30
+Stats,65,younger,33
+Stats,65,younger,33
+Stats,65,younger,32
+Stats,65,Younger,32
+Stats,65,younger,28
+Stats,65,younger than 65 yeas old,35
+Stats,65,Younger,40
+Stats,65,Younger,26
+Stats,65,Younger,35
+Stats,65,younger,34
+Stats,65,younger ,28
+Stats,65,younger,29
+Stats,65,Younger,28
+Stats,65,younger,34
+Stats,65,younger than 65,35
+Stats,65,Younger,34
+Stats,65,younger,29
+Stats,65,younger,35
