@@ -1,0 +1,3143 @@
+state,name,mean_work_travel_2010,mean_work_travel_2017,delta_work_travel
+Alabama,Autauga County,25.1,25.8,0.7
+Alabama,Baldwin County,25.8,27,1.2
+Alabama,Barbour County,23.8,23.4,-0.4
+Alabama,Bibb County,28.3,30,1.7
+Alabama,Blount County,33.2,35,1.8
+Alabama,Bullock County,28.1,29.8,1.7
+Alabama,Butler County,25.1,23.2,-1.9
+Alabama,Calhoun County,22.1,24.8,2.7
+Alabama,Chambers County,23.6,23.6,0
+Alabama,Cherokee County,26.2,26.5,0.3
+Alabama,Chilton County,32,32.5,0.5
+Alabama,Choctaw County,34.8,32.7,-2.1
+Alabama,Clarke County,25.1,23.9,-1.2
+Alabama,Clay County,27.3,30.3,3
+Alabama,Cleburne County,29.1,33.2,4.1
+Alabama,Coffee County,20.7,21.7,1
+Alabama,Colbert County,22.7,23.1,0.4
+Alabama,Conecuh County,25.2,29.6,4.4
+Alabama,Coosa County,30.2,29.8,-0.4
+Alabama,Covington County,20.8,25.2,4.4
+Alabama,Crenshaw County,27.4,28.6,1.2
+Alabama,Cullman County,27.4,26.5,-0.9
+Alabama,Dale County,20,20.7,0.7
+Alabama,Dallas County,24.7,22.1,-2.6
+Alabama,DeKalb County,23.1,23.2,0.1
+Alabama,Elmore County,27.5,28,0.5
+Alabama,Escambia County,24.6,22.6,-2
+Alabama,Etowah County,23.6,24,0.4
+Alabama,Fayette County,27.2,27.9,0.7
+Alabama,Franklin County,24.4,28.4,4
+Alabama,Geneva County,26.1,27.2,1.1
+Alabama,Greene County,25.1,29.7,4.6
+Alabama,Hale County,28,29.9,1.9
+Alabama,Henry County,23.3,25.6,2.3
+Alabama,Houston County,19.7,21.3,1.6
+Alabama,Jackson County,26.2,25.7,-0.5
+Alabama,Jefferson County,23.3,23.8,0.5
+Alabama,Lamar County,25.5,28.1,2.6
+Alabama,Lauderdale County,23.5,24.1,0.6
+Alabama,Lawrence County,26.1,28,1.9
+Alabama,Lee County,20.3,22.2,1.9
+Alabama,Limestone County,25,25.7,0.7
+Alabama,Lowndes County,35.4,30.3,-5.1
+Alabama,Macon County,22.8,22.5,-0.3
+Alabama,Madison County,20.8,21.3,0.5
+Alabama,Marengo County,21.1,25.5,4.4
+Alabama,Marion County,23.7,23.2,-0.5
+Alabama,Marshall County,24.4,23.9,-0.5
+Alabama,Mobile County,24.1,24.8,0.7
+Alabama,Monroe County,23.4,24.7,1.3
+Alabama,Montgomery County,19.7,20.3,0.6
+Alabama,Morgan County,22.9,24.1,1.2
+Alabama,Perry County,29.1,26.1,-3
+Alabama,Pickens County,29.9,29.5,-0.4
+Alabama,Pike County,19.5,20.4,0.9
+Alabama,Randolph County,26.9,26.3,-0.6
+Alabama,Russell County,22.3,24.1,1.8
+Alabama,St. Clair County,30.1,29.7,-0.4
+Alabama,Shelby County,29,28,-1
+Alabama,Sumter County,23.8,26.1,2.3
+Alabama,Talladega County,24.6,24.8,0.2
+Alabama,Tallapoosa County,23.7,25.2,1.5
+Alabama,Tuscaloosa County,20.3,22.3,2
+Alabama,Walker County,28.8,29.2,0.4
+Alabama,Washington County,32.1,35.2,3.1
+Alabama,Wilcox County,25,25,0
+Alabama,Winston County,25.2,27.8,2.6
+Alaska,Aleutians East Borough,4.3,5.1,0.8
+Alaska,Aleutians West Census Area,4.6,7.8,3.2
+Alaska,Anchorage Municipality,18.2,18.9,0.7
+Alaska,Bethel Census Area,7,7.4,0.4
+Alaska,Bristol Bay Borough,8.7,9.4,0.7
+Alaska,Denali Borough,12.8,16.1,3.3
+Alaska,Dillingham Census Area,9.2,8.6,-0.6
+Alaska,Fairbanks North Star Borough,18,18.9,0.9
+Alaska,Haines Borough,12.9,7.1,-5.8
+Alaska,Hoonah Angoon Census Area,9.7,9.7,0
+Alaska,Juneau City and Borough,15.3,15.6,0.3
+Alaska,Kenai Peninsula Borough,18.4,20,1.6
+Alaska,Ketchikan Gateway Borough,14.2,13.4,-0.8
+Alaska,Kodiak Island Borough,13.4,10.5,-2.9
+Alaska,Kusilvak Census Area,5.4,0,-5.4
+Alaska,Lake and Peninsula Borough,6.3,6.7,0.4
+Alaska,Matanuska-Susitna Borough,33.4,34.5,1.1
+Alaska,Nome Census Area,5.9,7,1.1
+Alaska,North Slope Borough,5.4,6.1,0.7
+Alaska,Northwest Arctic Borough,7.4,6.5,-0.9
+Alaska,Petersburg Borough,8.5,7.7,-0.8
+Alaska,Prince of Wales-Hyder Census Area,14.2,16,1.8
+Alaska,Sitka City and Borough,10.1,10.4,0.3
+Alaska,Skagway,4.6,6.1,1.5
+Alaska,Southeast Fairbanks Census Area,16.6,13.4,-3.2
+Alaska,Valdez-Cordova Census Area,14.3,11,-3.3
+Alaska,Wrangell,13.4,9.4,-4
+Alaska,Yakutat City and Borough,6.3,6.5,0.2
+Alaska,Yukon-Koyukuk Census Area,7.7,8.4,0.7
+Arizona,Apache County,26.4,26.7,0.3
+Arizona,Cochise County,19.5,20.5,1
+Arizona,Coconino County,18,18.4,0.4
+Arizona,Gila County,18.9,18.7,-0.2
+Arizona,Graham County,19.6,20.9,1.3
+Arizona,Greenlee County,14.8,17.8,3
+Arizona,La Paz County,14.6,12.9,-1.7
+Arizona,Maricopa County,25.7,25.8,0.1
+Arizona,Mohave County,19.4,20.4,1
+Arizona,Navajo County,21.8,21.6,-0.2
+Arizona,Pima County,23.9,24.5,0.6
+Arizona,Pinal County,32.4,31,-1.4
+Arizona,Santa Cruz County,19,23.5,4.5
+Arizona,Yavapai County,21.7,23.2,1.5
+Arizona,Yuma County,19.1,19.6,0.5
+Arkansas,Arkansas County,14.7,14.6,-0.1
+Arkansas,Ashley County,18.6,20.4,1.8
+Arkansas,Baxter County,17.1,16.4,-0.7
+Arkansas,Benton County,20.8,19.9,-0.9
+Arkansas,Boone County,19.7,19.4,-0.3
+Arkansas,Bradley County,17.2,22,4.8
+Arkansas,Calhoun County,26.1,24.4,-1.7
+Arkansas,Carroll County,19.1,19.8,0.7
+Arkansas,Chicot County,21,21.8,0.8
+Arkansas,Clark County,21,21.3,0.3
+Arkansas,Clay County,22.6,23.3,0.7
+Arkansas,Cleburne County,23.9,26.1,2.2
+Arkansas,Cleveland County,26.2,29.6,3.4
+Arkansas,Columbia County,17.9,17.3,-0.6
+Arkansas,Conway County,23.8,25.8,2
+Arkansas,Craighead County,17.8,18.5,0.7
+Arkansas,Crawford County,21.1,22.4,1.3
+Arkansas,Crittenden County,21.1,19.9,-1.2
+Arkansas,Cross County,23.1,23.9,0.8
+Arkansas,Dallas County,19.6,27.5,7.9
+Arkansas,Desha County,21.4,19.3,-2.1
+Arkansas,Drew County,22.2,21.7,-0.5
+Arkansas,Faulkner County,24.8,24,-0.8
+Arkansas,Franklin County,24.6,26.8,2.2
+Arkansas,Fulton County,24,23.3,-0.7
+Arkansas,Garland County,22.3,21.9,-0.4
+Arkansas,Grant County,28.6,29.7,1.1
+Arkansas,Greene County,19.6,20.3,0.7
+Arkansas,Hempstead County,19.8,19.9,0.1
+Arkansas,Hot Spring County,26.8,26.1,-0.7
+Arkansas,Howard County,18.5,20.2,1.7
+Arkansas,Independence County,20.9,18.9,-2
+Arkansas,Izard County,24,20.5,-3.5
+Arkansas,Jackson County,18.6,19.1,0.5
+Arkansas,Jefferson County,21.3,20.9,-0.4
+Arkansas,Johnson County,19.5,20.5,1
+Arkansas,Lafayette County,23,25.1,2.1
+Arkansas,Lawrence County,25.9,26.1,0.2
+Arkansas,Lee County,18.7,20.8,2.1
+Arkansas,Lincoln County,24.1,25.1,1
+Arkansas,Little River County,24.7,24.8,0.1
+Arkansas,Logan County,27.5,25.6,-1.9
+Arkansas,Lonoke County,26.1,27.3,1.2
+Arkansas,Madison County,28.8,31.7,2.9
+Arkansas,Marion County,21.6,22.1,0.5
+Arkansas,Miller County,19.4,18.4,-1
+Arkansas,Mississippi County,18.1,17.8,-0.3
+Arkansas,Monroe County,20.3,22,1.7
+Arkansas,Montgomery County,27.2,30,2.8
+Arkansas,Nevada County,23.8,29.9,6.1
+Arkansas,Newton County,34.5,30.5,-4
+Arkansas,Ouachita County,20.2,22.2,2
+Arkansas,Perry County,31.9,33.3,1.4
+Arkansas,Phillips County,18.5,18.2,-0.3
+Arkansas,Pike County,26.8,27.7,0.9
+Arkansas,Poinsett County,22.2,24,1.8
+Arkansas,Polk County,20,23,3
+Arkansas,Pope County,19.1,18.5,-0.6
+Arkansas,Prairie County,22.9,26.8,3.9
+Arkansas,Pulaski County,19.2,20.3,1.1
+Arkansas,Randolph County,27.4,28.6,1.2
+Arkansas,St. Francis County,19.8,19.7,-0.1
+Arkansas,Saline County,24.8,26.1,1.3
+Arkansas,Scott County,23.2,19.7,-3.5
+Arkansas,Searcy County,25.8,28.9,3.1
+Arkansas,Sebastian County,17.5,19,1.5
+Arkansas,Sevier County,19,25.8,6.8
+Arkansas,Sharp County,27.2,25,-2.2
+Arkansas,Stone County,19.1,23.3,4.2
+Arkansas,Union County,17.6,19,1.4
+Arkansas,Van Buren County,29.2,27.9,-1.3
+Arkansas,Washington County,20.3,21.5,1.2
+Arkansas,White County,22,24,2
+Arkansas,Woodruff County,16.5,18.1,1.6
+Arkansas,Yell County,22.5,20.8,-1.7
+California,Alameda County,27.9,32.5,4.6
+California,Alpine County,23.1,21.9,-1.2
+California,Amador County,28.9,32,3.1
+California,Butte County,20.8,20.1,-0.7
+California,Calaveras County,37.2,35.5,-1.7
+California,Colusa County,22.4,24.7,2.3
+California,Contra Costa County,32,37.1,5.1
+California,Del Norte County,14.9,14.4,-0.5
+California,El Dorado County,29.4,29.1,-0.3
+California,Fresno County,21.5,22.4,0.9
+California,Glenn County,20.5,24,3.5
+California,Humboldt County,17.9,18.2,0.3
+California,Imperial County,19.2,20.8,1.6
+California,Inyo County,17.2,16.9,-0.3
+California,Kern County,23.2,23.4,0.2
+California,Kings County,20.9,22.4,1.5
+California,Lake County,27.8,28.9,1.1
+California,Lassen County,17.9,20.9,3
+California,Los Angeles County,29,30.9,1.9
+California,Madera County,26.9,25.6,-1.3
+California,Marin County,28.2,31.7,3.5
+California,Mariposa County,35.2,30.9,-4.3
+California,Mendocino County,19.2,19.8,0.6
+California,Merced County,25.6,27,1.4
+California,Modoc County,18.2,15.2,-3
+California,Mono County,18.4,16.1,-2.3
+California,Monterey County,22,22.4,0.4
+California,Napa County,24.1,24.1,0
+California,Nevada County,24.1,24.5,0.4
+California,Orange County,25.9,27.4,1.5
+California,Placer County,27,27.3,0.3
+California,Plumas County,20.6,21.9,1.3
+California,Riverside County,31.7,33.1,1.4
+California,Sacramento County,25.8,26.9,1.1
+California,San Benito County,30.6,34.1,3.5
+California,San Bernardino County,29.3,30.9,1.6
+California,San Diego County,24.6,25.7,1.1
+California,San Francisco County,29.4,32.8,3.4
+California,San Joaquin County,29.7,32,2.3
+California,San Luis Obispo County,20.3,21.8,1.5
+California,San Mateo County,25,28.2,3.2
+California,Santa Barbara County,19.5,19.4,-0.1
+California,Santa Clara County,24.2,28,3.8
+California,Santa Cruz County,25.7,26.8,1.1
+California,Shasta County,19.4,19.9,0.5
+California,Sierra County,27.4,29.6,2.2
+California,Siskiyou County,19.5,18.9,-0.6
+California,Solano County,29.5,31.8,2.3
+California,Sonoma County,25.1,25.2,0.1
+California,Stanislaus County,26.5,28.2,1.7
+California,Sutter County,27.9,26.4,-1.5
+California,Tehama County,22.7,23.5,0.8
+California,Trinity County,20.9,17.4,-3.5
+California,Tulare County,20.9,22.5,1.6
+California,Tuolumne County,25.8,27,1.2
+California,Ventura County,25.4,26.6,1.2
+California,Yolo County,21.3,23.2,1.9
+California,Yuba County,28.8,30.7,1.9
+Colorado,Adams County,28.4,29.2,0.8
+Colorado,Alamosa County,14,14.6,0.6
+Colorado,Arapahoe County,26.6,27.7,1.1
+Colorado,Archuleta County,18.9,17.2,-1.7
+Colorado,Baca County,12.3,14.5,2.2
+Colorado,Bent County,23.2,20.1,-3.1
+Colorado,Boulder County,21.7,22.7,1
+Colorado,Broomfield County,26.8,27.9,1.1
+Colorado,Chaffee County,15.3,17.5,2.2
+Colorado,Cheyenne County,13.8,12.6,-1.2
+Colorado,Clear Creek County,28.7,30.3,1.6
+Colorado,Conejos County,24.4,21.6,-2.8
+Colorado,Costilla County,22.1,18.1,-4
+Colorado,Crowley County,24.6,23.1,-1.5
+Colorado,Custer County,29.1,27.1,-2
+Colorado,Delta County,24,24.3,0.3
+Colorado,Denver County,24.6,25.3,0.7
+Colorado,Dolores County,18.9,19.2,0.3
+Colorado,Douglas County,27.2,27.6,0.4
+Colorado,Eagle County,19.9,22.3,2.4
+Colorado,Elbert County,41,40.4,-0.6
+Colorado,El Paso County,21.8,23,1.2
+Colorado,Fremont County,23.5,22.7,-0.8
+Colorado,Garfield County,28.5,31.6,3.1
+Colorado,Gilpin County,34.1,36.6,2.5
+Colorado,Grand County,18.6,22.2,3.6
+Colorado,Gunnison County,12.5,14.2,1.7
+Colorado,Hinsdale County,5.7,12.3,6.6
+Colorado,Huerfano County,23.2,20.8,-2.4
+Colorado,Jackson County,18.8,28.9,10.1
+Colorado,Jefferson County,25.9,27.5,1.6
+Colorado,Kiowa County,16.4,16.3,-0.1
+Colorado,Kit Carson County,12.8,12.1,-0.7
+Colorado,Lake County,33.3,28.6,-4.7
+Colorado,La Plata County,20.3,21.4,1.1
+Colorado,Larimer County,22,22.8,0.8
+Colorado,Las Animas County,21.6,20.6,-1
+Colorado,Lincoln County,17.1,17.3,0.2
+Colorado,Logan County,17.1,19.2,2.1
+Colorado,Mesa County,20.6,20.2,-0.4
+Colorado,Mineral County,11.7,14,2.3
+Colorado,Moffat County,25.1,22,-3.1
+Colorado,Montezuma County,22.8,22,-0.8
+Colorado,Montrose County,21.4,17.8,-3.6
+Colorado,Morgan County,15.9,17.6,1.7
+Colorado,Otero County,16.2,16.2,0
+Colorado,Ouray County,23.4,26.8,3.4
+Colorado,Park County,41.1,40.9,-0.2
+Colorado,Phillips County,15.9,15.8,-0.1
+Colorado,Pitkin County,19,17.5,-1.5
+Colorado,Prowers County,14.3,13.8,-0.5
+Colorado,Pueblo County,20.4,21.8,1.4
+Colorado,Rio Blanco County,19.4,17.3,-2.1
+Colorado,Rio Grande County,19,17.4,-1.6
+Colorado,Routt County,17.8,17.9,0.1
+Colorado,Saguache County,18.9,18.8,-0.1
+Colorado,San Juan County,14.5,12.3,-2.2
+Colorado,San Miguel County,16.7,19.1,2.4
+Colorado,Sedgwick County,21.4,20.6,-0.8
+Colorado,Summit County,16.4,16.4,0
+Colorado,Teller County,32.7,32.6,-0.1
+Colorado,Washington County,21,24,3
+Colorado,Weld County,25.2,26.7,1.5
+Colorado,Yuma County,16.4,15.7,-0.7
+Connecticut,Fairfield County,28,30.4,2.4
+Connecticut,Hartford County,21.9,23,1.1
+Connecticut,Litchfield County,26.8,27.4,0.6
+Connecticut,Middlesex County,24.2,26.1,1.9
+Connecticut,New Haven County,23.9,24.9,1
+Connecticut,New London County,22.4,23.4,1
+Connecticut,Tolland County,25.3,26.3,1
+Connecticut,Windham County,25.9,26.3,0.4
+Delaware,Kent County,24.2,26.3,2.1
+Delaware,New Castle County,24.4,25.7,1.3
+Delaware,Sussex County,23.5,25.3,1.8
+District of Columbia,District of Columbia,29.3,30,0.7
+Florida,Alachua County,20.4,21.2,0.8
+Florida,Baker County,30.3,29.9,-0.4
+Florida,Bay County,20.9,22.8,1.9
+Florida,Bradford County,24.6,31.1,6.5
+Florida,Brevard County,23.6,24.5,0.9
+Florida,Broward County,26.8,28.2,1.4
+Florida,Calhoun County,27.6,26.8,-0.8
+Florida,Charlotte County,23.5,24.7,1.2
+Florida,Citrus County,25.6,25.3,-0.3
+Florida,Clay County,32.1,33.3,1.2
+Florida,Collier County,23.6,24.5,0.9
+Florida,Columbia County,21.3,24.8,3.5
+Florida,DeSoto County,24.7,24.7,0
+Florida,Dixie County,23.2,26.7,3.5
+Florida,Duval County,23.4,24.5,1.1
+Florida,Escambia County,21.8,21.9,0.1
+Florida,Flagler County,24.4,25.7,1.3
+Florida,Franklin County,20.3,19.3,-1
+Florida,Gadsden County,29.1,30.2,1.1
+Florida,Gilchrist County,32.8,32.8,0
+Florida,Glades County,27.6,25.3,-2.3
+Florida,Gulf County,25.9,22.4,-3.5
+Florida,Hamilton County,25.5,23.4,-2.1
+Florida,Hardee County,25.8,23.9,-1.9
+Florida,Hendry County,28.5,29.4,0.9
+Florida,Hernando County,30.2,29.6,-0.6
+Florida,Highlands County,22,20.4,-1.6
+Florida,Hillsborough County,25.6,27.3,1.7
+Florida,Holmes County,28.3,28.2,-0.1
+Florida,Indian River County,21.7,22.4,0.7
+Florida,Jackson County,23.5,23,-0.5
+Florida,Jefferson County,25.7,28.7,3
+Florida,Lafayette County,26.7,27.2,0.5
+Florida,Lake County,27.8,28.8,1
+Florida,Lee County,26,27.2,1.2
+Florida,Leon County,20,20.8,0.8
+Florida,Levy County,29.4,30,0.6
+Florida,Liberty County,23.4,33,9.6
+Florida,Madison County,25.1,27,1.9
+Florida,Manatee County,23.5,25.4,1.9
+Florida,Marion County,24.5,25.4,0.9
+Florida,Martin County,23.5,26.3,2.8
+Florida,Miami-Dade County,29.5,31.3,1.8
+Florida,Monroe County,18,17.8,-0.2
+Florida,Nassau County,28.4,29.8,1.4
+Florida,Okaloosa County,22.3,23.6,1.3
+Florida,Okeechobee County,26.7,24,-2.7
+Florida,Orange County,26.2,27.6,1.4
+Florida,Osceola County,30.2,32.2,2
+Florida,Palm Beach County,24.7,25.3,0.6
+Florida,Pasco County,30,31.6,1.6
+Florida,Pinellas County,23,24.4,1.4
+Florida,Polk County,25.4,26,0.6
+Florida,Putnam County,28.7,27.9,-0.8
+Florida,St. Johns County,25.8,27.2,1.4
+Florida,St. Lucie County,28,27.6,-0.4
+Florida,Santa Rosa County,28.1,28.7,0.6
+Florida,Sarasota County,21.6,23.6,2
+Florida,Seminole County,25.7,27.1,1.4
+Florida,Sumter County,24,25.2,1.2
+Florida,Suwannee County,26.8,25.9,-0.9
+Florida,Taylor County,23.3,24.2,0.9
+Florida,Union County,23.8,22.4,-1.4
+Florida,Volusia County,24.7,25.4,0.7
+Florida,Wakulla County,29,32.7,3.7
+Florida,Walton County,27.2,28.2,1
+Florida,Washington County,30,30.5,0.5
+Georgia,Appling County,23.4,22,-1.4
+Georgia,Atkinson County,22.5,22.9,0.4
+Georgia,Bacon County,23.8,20.4,-3.4
+Georgia,Baker County,27.2,27.4,0.2
+Georgia,Baldwin County,19.2,21.7,2.5
+Georgia,Banks County,26.9,30.2,3.3
+Georgia,Barrow County,31.7,33.2,1.5
+Georgia,Bartow County,28,27.9,-0.1
+Georgia,Ben Hill County,20.2,17.5,-2.7
+Georgia,Berrien County,23.6,23.8,0.2
+Georgia,Bibb County,20.8,21.1,0.3
+Georgia,Bleckley County,22.8,24.2,1.4
+Georgia,Brantley County,30.1,30.8,0.7
+Georgia,Brooks County,22.8,24.2,1.4
+Georgia,Bryan County,28,30,2
+Georgia,Bulloch County,21.6,21.6,0
+Georgia,Burke County,30,26.4,-3.6
+Georgia,Butts County,30.2,30.8,0.6
+Georgia,Calhoun County,20.1,22.6,2.5
+Georgia,Camden County,21.5,22.8,1.3
+Georgia,Candler County,22.7,22.2,-0.5
+Georgia,Carroll County,28.7,27.8,-0.9
+Georgia,Catoosa County,22.8,23.3,0.5
+Georgia,Charlton County,31.8,33.7,1.9
+Georgia,Chatham County,20.7,21.8,1.1
+Georgia,Chattahoochee County,15.6,15.5,-0.1
+Georgia,Chattooga County,22.4,25.2,2.8
+Georgia,Cherokee County,33.3,34.5,1.2
+Georgia,Clarke County,18.6,19.4,0.8
+Georgia,Clay County,21.2,29.6,8.4
+Georgia,Clayton County,30.5,30.4,-0.1
+Georgia,Clinch County,19,18.5,-0.5
+Georgia,Cobb County,29.7,31.4,1.7
+Georgia,Coffee County,19.6,20,0.4
+Georgia,Colquitt County,22,21.6,-0.4
+Georgia,Columbia County,23.7,25.2,1.5
+Georgia,Cook County,23,25.6,2.6
+Georgia,Coweta County,30.8,31,0.2
+Georgia,Crawford County,29.1,28.8,-0.3
+Georgia,Crisp County,19.1,18.8,-0.3
+Georgia,Dade County,27.4,26.4,-1
+Georgia,Dawson County,31.9,32.3,0.4
+Georgia,Decatur County,21.4,24,2.6
+Georgia,DeKalb County,30.7,31.9,1.2
+Georgia,Dodge County,25.2,26,0.8
+Georgia,Dooly County,19,21.5,2.5
+Georgia,Dougherty County,18,18.9,0.9
+Georgia,Douglas County,32.9,32.7,-0.2
+Georgia,Early County,19.4,25.2,5.8
+Georgia,Echols County,28.7,26.8,-1.9
+Georgia,Effingham County,29.1,31.1,2
+Georgia,Elbert County,20,20.8,0.8
+Georgia,Emanuel County,22.9,27.9,5
+Georgia,Evans County,23.1,23.6,0.5
+Georgia,Fannin County,26.7,26.9,0.2
+Georgia,Fayette County,29.7,31.2,1.5
+Georgia,Floyd County,22.3,22.3,0
+Georgia,Forsyth County,29.9,32.7,2.8
+Georgia,Franklin County,22.3,25.8,3.5
+Georgia,Fulton County,27.1,28.1,1
+Georgia,Gilmer County,28.1,30.1,2
+Georgia,Glascock County,32.4,31.3,-1.1
+Georgia,Glynn County,19.1,19.3,0.2
+Georgia,Gordon County,23.7,23.9,0.2
+Georgia,Grady County,27.4,25.3,-2.1
+Georgia,Greene County,25.5,26.4,0.9
+Georgia,Gwinnett County,32.5,33.1,0.6
+Georgia,Habersham County,22.3,26.9,4.6
+Georgia,Hall County,25.9,26.3,0.4
+Georgia,Hancock County,26.5,29.4,2.9
+Georgia,Haralson County,27.6,33.6,6
+Georgia,Harris County,26.7,26.1,-0.6
+Georgia,Hart County,22.6,21.8,-0.8
+Georgia,Heard County,36.2,37.6,1.4
+Georgia,Henry County,33,33.6,0.6
+Georgia,Houston County,20.6,21.4,0.8
+Georgia,Irwin County,22.9,20.4,-2.5
+Georgia,Jackson County,26.8,30.8,4
+Georgia,Jasper County,35.9,32.6,-3.3
+Georgia,Jeff Davis County,22.4,23,0.6
+Georgia,Jefferson County,21.9,25.8,3.9
+Georgia,Jenkins County,25,25.5,0.5
+Georgia,Johnson County,29,28.6,-0.4
+Georgia,Jones County,24.4,26.9,2.5
+Georgia,Lamar County,25.3,29.6,4.3
+Georgia,Lanier County,23.2,24.1,0.9
+Georgia,Laurens County,21.4,23,1.6
+Georgia,Lee County,20.1,20.5,0.4
+Georgia,Liberty County,21.2,21.6,0.4
+Georgia,Lincoln County,35.1,33.3,-1.8
+Georgia,Long County,26.4,30.2,3.8
+Georgia,Lowndes County,17,19.2,2.2
+Georgia,Lumpkin County,30.5,28.7,-1.8
+Georgia,McDuffie County,23.7,26.5,2.8
+Georgia,McIntosh County,25.7,29.1,3.4
+Georgia,Macon County,22,27.3,5.3
+Georgia,Madison County,23.5,26,2.5
+Georgia,Marion County,26.4,32.3,5.9
+Georgia,Meriwether County,29.7,33,3.3
+Georgia,Miller County,19.8,24.3,4.5
+Georgia,Mitchell County,19.8,23.5,3.7
+Georgia,Monroe County,27.8,26.3,-1.5
+Georgia,Montgomery County,23.2,21.3,-1.9
+Georgia,Morgan County,25.3,25.9,0.6
+Georgia,Murray County,23.8,27.3,3.5
+Georgia,Muscogee County,18.6,20,1.4
+Georgia,Newton County,31.5,31.5,0
+Georgia,Oconee County,21.7,23.5,1.8
+Georgia,Oglethorpe County,26.2,28.5,2.3
+Georgia,Paulding County,38.9,37.7,-1.2
+Georgia,Peach County,22.6,22.7,0.1
+Georgia,Pickens County,30.9,31.7,0.8
+Georgia,Pierce County,22.6,27.1,4.5
+Georgia,Pike County,31.7,33.7,2
+Georgia,Polk County,26.9,26.2,-0.7
+Georgia,Pulaski County,22.5,19.3,-3.2
+Georgia,Putnam County,26.7,25,-1.7
+Georgia,Quitman County,19.7,21.8,2.1
+Georgia,Rabun County,21.3,21.6,0.3
+Georgia,Randolph County,18.9,21.4,2.5
+Georgia,Richmond County,19.5,20.5,1
+Georgia,Rockdale County,32.6,29.5,-3.1
+Georgia,Schley County,30.9,24.1,-6.8
+Georgia,Screven County,28.5,31.1,2.6
+Georgia,Seminole County,23.8,22.4,-1.4
+Georgia,Spalding County,28.2,29,0.8
+Georgia,Stephens County,21.2,20.9,-0.3
+Georgia,Stewart County,29,26.8,-2.2
+Georgia,Sumter County,18,20.3,2.3
+Georgia,Talbot County,28.4,34.5,6.1
+Georgia,Taliaferro County,30.3,32.9,2.6
+Georgia,Tattnall County,24.8,24.9,0.1
+Georgia,Taylor County,25.9,28.9,3
+Georgia,Telfair County,22,22.5,0.5
+Georgia,Terrell County,20.2,24.9,4.7
+Georgia,Thomas County,19.9,20.5,0.6
+Georgia,Tift County,16.2,19.9,3.7
+Georgia,Toombs County,21.7,19.4,-2.3
+Georgia,Towns County,24,19,-5
+Georgia,Treutlen County,22.3,26.1,3.8
+Georgia,Troup County,20.5,23.2,2.7
+Georgia,Turner County,22,21.6,-0.4
+Georgia,Twiggs County,27.8,32.3,4.5
+Georgia,Union County,24.1,22.4,-1.7
+Georgia,Upson County,24,23.3,-0.7
+Georgia,Walker County,25.7,28.4,2.7
+Georgia,Walton County,32,32.3,0.3
+Georgia,Ware County,22.1,19.2,-2.9
+Georgia,Warren County,22.6,25.4,2.8
+Georgia,Washington County,21.4,21.5,0.1
+Georgia,Wayne County,25.7,23.4,-2.3
+Georgia,Webster County,24,25.8,1.8
+Georgia,Wheeler County,19.5,24,4.5
+Georgia,White County,29.7,27,-2.7
+Georgia,Whitfield County,19.5,20.5,1
+Georgia,Wilcox County,23.8,27.2,3.4
+Georgia,Wilkes County,22.7,25.2,2.5
+Georgia,Wilkinson County,24.4,26.3,1.9
+Georgia,Worth County,25.6,26.3,0.7
+Hawaii,Hawaii County,26.3,25.3,-1
+Hawaii,Honolulu County,27,29.1,2.1
+Hawaii,Kalawao County,6.2,6.6,0.4
+Hawaii,Kauai County,19.9,22.4,2.5
+Hawaii,Maui County,20.8,21.2,0.4
+Idaho,Ada County,19.3,20.4,1.1
+Idaho,Adams County,18.3,24.1,5.8
+Idaho,Bannock County,17.7,17.6,-0.1
+Idaho,Bear Lake County,20.9,23,2.1
+Idaho,Benewah County,17.1,20.8,3.7
+Idaho,Bingham County,20.2,21.9,1.7
+Idaho,Blaine County,17.8,19.2,1.4
+Idaho,Boise County,36.5,38.1,1.6
+Idaho,Bonner County,23.9,25.6,1.7
+Idaho,Bonneville County,20.1,19.2,-0.9
+Idaho,Boundary County,17.7,23.7,6
+Idaho,Butte County,19.7,22.6,2.9
+Idaho,Camas County,28.1,29.2,1.1
+Idaho,Canyon County,24.5,24.6,0.1
+Idaho,Caribou County,17.6,15.6,-2
+Idaho,Cassia County,16.1,14.8,-1.3
+Idaho,Clark County,16.8,18.3,1.5
+Idaho,Clearwater County,23.5,29,5.5
+Idaho,Custer County,23,19.2,-3.8
+Idaho,Elmore County,17.9,17.2,-0.7
+Idaho,Franklin County,22.7,25,2.3
+Idaho,Fremont County,21,25.9,4.9
+Idaho,Gem County,31.4,29.6,-1.8
+Idaho,Gooding County,21.8,20.8,-1
+Idaho,Idaho County,21.1,17.4,-3.7
+Idaho,Jefferson County,26,24.6,-1.4
+Idaho,Jerome County,16.8,18,1.2
+Idaho,Kootenai County,21.4,21.7,0.3
+Idaho,Latah County,18.3,19.4,1.1
+Idaho,Lemhi County,14.5,16,1.5
+Idaho,Lewis County,20.5,22.7,2.2
+Idaho,Lincoln County,31.1,28.7,-2.4
+Idaho,Madison County,15.2,14.1,-1.1
+Idaho,Minidoka County,17.3,17.2,-0.1
+Idaho,Nez Perce County,15.7,16,0.3
+Idaho,Oneida County,21.2,24.6,3.4
+Idaho,Owyhee County,26,24,-2
+Idaho,Payette County,21.2,19.1,-2.1
+Idaho,Power County,17.1,18.2,1.1
+Idaho,Shoshone County,18.5,19.4,0.9
+Idaho,Teton County,24.6,27.9,3.3
+Idaho,Twin Falls County,15.7,17.4,1.7
+Idaho,Valley County,14.5,15.9,1.4
+Idaho,Washington County,21.8,19.7,-2.1
+Illinois,Adams County,16.6,17,0.4
+Illinois,Alexander County,26.7,27.3,0.6
+Illinois,Bond County,24.5,24.5,0
+Illinois,Boone County,31.6,29,-2.6
+Illinois,Brown County,16.2,16.6,0.4
+Illinois,Bureau County,19.6,20.6,1
+Illinois,Calhoun County,37,39.6,2.6
+Illinois,Carroll County,25.2,24.7,-0.5
+Illinois,Cass County,24.4,20.5,-3.9
+Illinois,Champaign County,16.9,17.9,1
+Illinois,Christian County,25.2,25.2,0
+Illinois,Clark County,22.7,22.4,-0.3
+Illinois,Clay County,19,20.6,1.6
+Illinois,Clinton County,25.2,25.1,-0.1
+Illinois,Coles County,16.8,16.3,-0.5
+Illinois,Cook County,31.8,32.9,1.1
+Illinois,Crawford County,17.7,15.8,-1.9
+Illinois,Cumberland County,23.7,22.4,-1.3
+Illinois,DeKalb County,25.2,25.5,0.3
+Illinois,De Witt County,22.1,21.9,-0.2
+Illinois,Douglas County,20.4,20.8,0.4
+Illinois,DuPage County,29.1,29.3,0.2
+Illinois,Edgar County,21.5,19.4,-2.1
+Illinois,Edwards County,21.4,20.9,-0.5
+Illinois,Effingham County,17.7,17.3,-0.4
+Illinois,Fayette County,23.5,22.7,-0.8
+Illinois,Ford County,22.4,22.3,-0.1
+Illinois,Franklin County,23.2,24.8,1.6
+Illinois,Fulton County,26.6,24.7,-1.9
+Illinois,Gallatin County,26.9,27.2,0.3
+Illinois,Greene County,28.5,27.2,-1.3
+Illinois,Grundy County,28.7,28.7,0
+Illinois,Hamilton County,24.3,27.7,3.4
+Illinois,Hancock County,22.6,23.4,0.8
+Illinois,Hardin County,26.2,27.8,1.6
+Illinois,Henderson County,24.9,24.8,-0.1
+Illinois,Henry County,21.9,22,0.1
+Illinois,Iroquois County,24.6,23.2,-1.4
+Illinois,Jackson County,17.1,19.2,2.1
+Illinois,Jasper County,23.8,23.6,-0.2
+Illinois,Jefferson County,20.2,19.8,-0.4
+Illinois,Jersey County,29.5,28.6,-0.9
+Illinois,Jo Daviess County,20.3,21.5,1.2
+Illinois,Johnson County,25.6,25,-0.6
+Illinois,Kane County,29,29,0
+Illinois,Kankakee County,23.3,23.9,0.6
+Illinois,Kendall County,34.1,33,-1.1
+Illinois,Knox County,19.8,17.8,-2
+Illinois,Lake County,30.4,30,-0.4
+Illinois,LaSalle County,22.3,22.8,0.5
+Illinois,Lawrence County,22.3,19,-3.3
+Illinois,Lee County,21.4,21.5,0.1
+Illinois,Livingston County,20.2,19.8,-0.4
+Illinois,Logan County,20.8,21.5,0.7
+Illinois,McDonough County,15.1,15.6,0.5
+Illinois,McHenry County,33.7,33.6,-0.1
+Illinois,McLean County,17.3,18,0.7
+Illinois,Macon County,17.6,17.9,0.3
+Illinois,Macoupin County,27.9,27.6,-0.3
+Illinois,Madison County,24.3,24.8,0.5
+Illinois,Marion County,22.5,20.4,-2.1
+Illinois,Marshall County,27,27.7,0.7
+Illinois,Mason County,27,26.9,-0.1
+Illinois,Massac County,19.9,20.7,0.8
+Illinois,Menard County,27.5,27.6,0.1
+Illinois,Mercer County,27.4,26.7,-0.7
+Illinois,Monroe County,28.8,28.4,-0.4
+Illinois,Montgomery County,23.4,23.3,-0.1
+Illinois,Morgan County,19,19.4,0.4
+Illinois,Moultrie County,20.5,22.3,1.8
+Illinois,Ogle County,24.4,26,1.6
+Illinois,Peoria County,19,18.9,-0.1
+Illinois,Perry County,24.5,25,0.5
+Illinois,Piatt County,22.2,23.2,1
+Illinois,Pike County,21.5,24.3,2.8
+Illinois,Pope County,32.8,33.1,0.3
+Illinois,Pulaski County,26,27.5,1.5
+Illinois,Putnam County,22.3,23.7,1.4
+Illinois,Randolph County,23.9,25.2,1.3
+Illinois,Richland County,17.8,19.2,1.4
+Illinois,Rock Island County,18.5,19.1,0.6
+Illinois,St. Clair County,23.2,24.9,1.7
+Illinois,Saline County,22,23.1,1.1
+Illinois,Sangamon County,18.9,19.6,0.7
+Illinois,Schuyler County,22.6,24.1,1.5
+Illinois,Scott County,25.3,25.1,-0.2
+Illinois,Shelby County,23.3,23.5,0.2
+Illinois,Stark County,25.3,24.7,-0.6
+Illinois,Stephenson County,19.7,20.5,0.8
+Illinois,Tazewell County,20.7,21.2,0.5
+Illinois,Union County,22.8,24.6,1.8
+Illinois,Vermilion County,19.7,19.8,0.1
+Illinois,Wabash County,19.6,20.3,0.7
+Illinois,Warren County,19.3,17.9,-1.4
+Illinois,Washington County,24.8,23.4,-1.4
+Illinois,Wayne County,20.4,23.9,3.5
+Illinois,White County,26,24.8,-1.2
+Illinois,Whiteside County,19.6,19.4,-0.2
+Illinois,Will County,33.6,32.9,-0.7
+Illinois,Williamson County,20.4,21.8,1.4
+Illinois,Winnebago County,21.9,21.9,0
+Illinois,Woodford County,22.8,22.7,-0.1
+Indiana,Adams County,21.8,22.8,1
+Indiana,Allen County,20.4,21.3,0.9
+Indiana,Bartholomew County,19.8,19.6,-0.2
+Indiana,Benton County,25,26.3,1.3
+Indiana,Blackford County,23.9,23.5,-0.4
+Indiana,Boone County,23.6,24.9,1.3
+Indiana,Brown County,35.2,33.3,-1.9
+Indiana,Carroll County,26,28.4,2.4
+Indiana,Cass County,19.9,20.6,0.7
+Indiana,Clark County,22.5,24,1.5
+Indiana,Clay County,25.7,26.2,0.5
+Indiana,Clinton County,21.9,23,1.1
+Indiana,Crawford County,34.2,32.7,-1.5
+Indiana,Daviess County,22.6,25.5,2.9
+Indiana,Dearborn County,28.1,28.7,0.6
+Indiana,Decatur County,21.1,21.4,0.3
+Indiana,DeKalb County,20.7,20.7,0
+Indiana,Delaware County,19.2,20.6,1.4
+Indiana,Dubois County,18.7,19.1,0.4
+Indiana,Elkhart County,18.8,19.4,0.6
+Indiana,Fayette County,24,26.1,2.1
+Indiana,Floyd County,22.5,22.6,0.1
+Indiana,Fountain County,27.2,25.4,-1.8
+Indiana,Franklin County,28.5,30.1,1.6
+Indiana,Fulton County,23.2,22.8,-0.4
+Indiana,Gibson County,22.9,21.5,-1.4
+Indiana,Grant County,19.3,18.3,-1
+Indiana,Greene County,28.7,28.7,0
+Indiana,Hamilton County,25.4,25.5,0.1
+Indiana,Hancock County,27.5,26.1,-1.4
+Indiana,Harrison County,29.9,29.4,-0.5
+Indiana,Hendricks County,25.9,27,1.1
+Indiana,Henry County,26.5,26.8,0.3
+Indiana,Howard County,19.2,19.9,0.7
+Indiana,Huntington County,21,20.2,-0.8
+Indiana,Jackson County,19.8,20.5,0.7
+Indiana,Jasper County,27.1,27,-0.1
+Indiana,Jay County,21.9,19.6,-2.3
+Indiana,Jefferson County,20.8,24.2,3.4
+Indiana,Jennings County,25.3,26.3,1
+Indiana,Johnson County,25.7,26.1,0.4
+Indiana,Knox County,18.7,18.4,-0.3
+Indiana,Kosciusko County,19.6,19.7,0.1
+Indiana,LaGrange County,21.9,22.9,1
+Indiana,Lake County,27.7,28.3,0.6
+Indiana,LaPorte County,21.4,22.1,0.7
+Indiana,Lawrence County,25.2,23.6,-1.6
+Indiana,Madison County,25.5,25.9,0.4
+Indiana,Marion County,22.2,23.3,1.1
+Indiana,Marshall County,21.7,22.4,0.7
+Indiana,Martin County,24.6,26.4,1.8
+Indiana,Miami County,22.3,24.1,1.8
+Indiana,Monroe County,18.3,18.7,0.4
+Indiana,Montgomery County,20,21.9,1.9
+Indiana,Morgan County,28.7,28.1,-0.6
+Indiana,Newton County,28.2,31.2,3
+Indiana,Noble County,22.6,21.9,-0.7
+Indiana,Ohio County,31,31.3,0.3
+Indiana,Orange County,26.3,25.6,-0.7
+Indiana,Owen County,31.2,30.8,-0.4
+Indiana,Parke County,25.2,27,1.8
+Indiana,Perry County,23.1,23.5,0.4
+Indiana,Pike County,26,25.2,-0.8
+Indiana,Porter County,26.5,27.2,0.7
+Indiana,Posey County,24,23.6,-0.4
+Indiana,Pulaski County,21.2,21.7,0.5
+Indiana,Putnam County,26.6,25,-1.6
+Indiana,Randolph County,22.6,24.5,1.9
+Indiana,Ripley County,25.3,27.2,1.9
+Indiana,Rush County,26.4,26,-0.4
+Indiana,St. Joseph County,19.8,21,1.2
+Indiana,Scott County,24.8,26,1.2
+Indiana,Shelby County,24.4,23.5,-0.9
+Indiana,Spencer County,27.3,26.8,-0.5
+Indiana,Starke County,29.3,30.3,1
+Indiana,Steuben County,20.9,22,1.1
+Indiana,Sullivan County,25.1,22.8,-2.3
+Indiana,Switzerland County,30.6,37.4,6.8
+Indiana,Tippecanoe County,17.4,17.7,0.3
+Indiana,Tipton County,23.9,23.7,-0.2
+Indiana,Union County,26.5,23.6,-2.9
+Indiana,Vanderburgh County,18.4,19.6,1.2
+Indiana,Vermillion County,23.8,24.3,0.5
+Indiana,Vigo County,19.5,19.9,0.4
+Indiana,Wabash County,19.9,19.6,-0.3
+Indiana,Warren County,23.9,25.6,1.7
+Indiana,Warrick County,22.8,23.6,0.8
+Indiana,Washington County,28.2,31.4,3.2
+Indiana,Wayne County,19.9,19.6,-0.3
+Indiana,Wells County,21.9,21.3,-0.6
+Indiana,White County,22.7,24.9,2.2
+Indiana,Whitley County,23.6,22.9,-0.7
+Iowa,Adair County,21,22.3,1.3
+Iowa,Adams County,20.2,19.6,-0.6
+Iowa,Allamakee County,19.5,24.3,4.8
+Iowa,Appanoose County,19.8,19.6,-0.2
+Iowa,Audubon County,19.3,19.2,-0.1
+Iowa,Benton County,25.4,23.8,-1.6
+Iowa,Black Hawk County,15.8,15.7,-0.1
+Iowa,Boone County,20.7,21.4,0.7
+Iowa,Bremer County,18.3,20.2,1.9
+Iowa,Buchanan County,22.9,22.4,-0.5
+Iowa,Buena Vista County,14.2,13.9,-0.3
+Iowa,Butler County,23.3,24,0.7
+Iowa,Calhoun County,19.9,20.4,0.5
+Iowa,Carroll County,13,14,1
+Iowa,Cass County,17.9,18.4,0.5
+Iowa,Cedar County,24,25.3,1.3
+Iowa,Cerro Gordo County,15.3,16.3,1
+Iowa,Cherokee County,14,16.1,2.1
+Iowa,Chickasaw County,19.8,19.6,-0.2
+Iowa,Clarke County,21.2,24.3,3.1
+Iowa,Clay County,14.8,16.3,1.5
+Iowa,Clayton County,21.5,21.5,0
+Iowa,Clinton County,18.2,19.5,1.3
+Iowa,Crawford County,14.7,16.3,1.6
+Iowa,Dallas County,20.8,21.1,0.3
+Iowa,Davis County,23.5,22.9,-0.6
+Iowa,Decatur County,21.2,24,2.8
+Iowa,Delaware County,21,22.6,1.6
+Iowa,Des Moines County,16,15.9,-0.1
+Iowa,Dickinson County,16.6,15.7,-0.9
+Iowa,Dubuque County,16.5,16.4,-0.1
+Iowa,Emmet County,17,16.7,-0.3
+Iowa,Fayette County,20.5,19.5,-1
+Iowa,Floyd County,19.8,19,-0.8
+Iowa,Franklin County,18.4,16.8,-1.6
+Iowa,Fremont County,22.5,24.5,2
+Iowa,Greene County,18.5,19.6,1.1
+Iowa,Grundy County,19.2,21.1,1.9
+Iowa,Guthrie County,27,26.2,-0.8
+Iowa,Hamilton County,16.3,18.4,2.1
+Iowa,Hancock County,17.6,18.2,0.6
+Iowa,Hardin County,16.4,17.9,1.5
+Iowa,Harrison County,27.2,26.4,-0.8
+Iowa,Henry County,18.5,18.7,0.2
+Iowa,Howard County,16.5,17.8,1.3
+Iowa,Humboldt County,16.9,19.1,2.2
+Iowa,Ida County,14.9,18.1,3.2
+Iowa,Iowa County,21.4,22.5,1.1
+Iowa,Jackson County,22.3,23.3,1
+Iowa,Jasper County,21.8,22.9,1.1
+Iowa,Jefferson County,13.1,14.8,1.7
+Iowa,Johnson County,17.7,18.9,1.2
+Iowa,Jones County,23.7,24.6,0.9
+Iowa,Keokuk County,26.4,23.9,-2.5
+Iowa,Kossuth County,15.5,14.7,-0.8
+Iowa,Lee County,17.5,17.5,0
+Iowa,Linn County,18.1,18.8,0.7
+Iowa,Louisa County,21.6,24.3,2.7
+Iowa,Lucas County,25.4,19.8,-5.6
+Iowa,Lyon County,19,16.2,-2.8
+Iowa,Madison County,29,28.2,-0.8
+Iowa,Mahaska County,17.7,18.3,0.6
+Iowa,Marion County,19.9,19,-0.9
+Iowa,Marshall County,16.9,17.5,0.6
+Iowa,Mills County,23.4,24.7,1.3
+Iowa,Mitchell County,16,17,1
+Iowa,Monona County,21.7,21.1,-0.6
+Iowa,Monroe County,23.7,22.4,-1.3
+Iowa,Montgomery County,20.6,19,-1.6
+Iowa,Muscatine County,17,17.2,0.2
+Iowa,O'Brien County,16.5,16.3,-0.2
+Iowa,Osceola County,16.7,19.1,2.4
+Iowa,Page County,16.1,13.9,-2.2
+Iowa,Palo Alto County,17.6,15.3,-2.3
+Iowa,Plymouth County,18.1,17.8,-0.3
+Iowa,Pocahontas County,17.4,18.2,0.8
+Iowa,Polk County,18.6,19.4,0.8
+Iowa,Pottawattamie County,20.2,20.5,0.3
+Iowa,Poweshiek County,18,17.1,-0.9
+Iowa,Ringgold County,19.5,20.3,0.8
+Iowa,Sac County,17.8,17.1,-0.7
+Iowa,Scott County,18.2,19.1,0.9
+Iowa,Shelby County,17.6,18.8,1.2
+Iowa,Sioux County,12.3,12.9,0.6
+Iowa,Story County,17.7,17.7,0
+Iowa,Tama County,21.6,22.7,1.1
+Iowa,Taylor County,20.3,21.2,0.9
+Iowa,Union County,13.7,17.5,3.8
+Iowa,Van Buren County,21.5,22.3,0.8
+Iowa,Wapello County,17.3,18.1,0.8
+Iowa,Warren County,24.2,23.7,-0.5
+Iowa,Washington County,20.8,20.7,-0.1
+Iowa,Wayne County,25.2,23.8,-1.4
+Iowa,Webster County,15.4,16.5,1.1
+Iowa,Winnebago County,13.9,16.7,2.8
+Iowa,Winneshiek County,16.9,17.9,1
+Iowa,Woodbury County,17,17.8,0.8
+Iowa,Worth County,20.7,20.5,-0.2
+Iowa,Wright County,14.6,15.9,1.3
+Kansas,Allen County,16.8,17.4,0.6
+Kansas,Anderson County,25.8,24.2,-1.6
+Kansas,Atchison County,18.9,19.8,0.9
+Kansas,Barber County,15.3,15.8,0.5
+Kansas,Barton County,15.3,17.9,2.6
+Kansas,Bourbon County,17.9,17.1,-0.8
+Kansas,Brown County,17.5,18.2,0.7
+Kansas,Butler County,22,22.7,0.7
+Kansas,Chase County,19,20.9,1.9
+Kansas,Chautauqua County,25.9,19.7,-6.2
+Kansas,Cherokee County,20,18.8,-1.2
+Kansas,Cheyenne County,14.4,13.2,-1.2
+Kansas,Clark County,14.4,17.4,3
+Kansas,Clay County,20.4,19.7,-0.7
+Kansas,Cloud County,14.9,17,2.1
+Kansas,Coffey County,21,19.9,-1.1
+Kansas,Comanche County,10,13.4,3.4
+Kansas,Cowley County,18.8,18,-0.8
+Kansas,Crawford County,17,16.4,-0.6
+Kansas,Decatur County,14.8,16.9,2.1
+Kansas,Dickinson County,20.4,21.1,0.7
+Kansas,Doniphan County,21.1,20,-1.1
+Kansas,Douglas County,19.6,20.4,0.8
+Kansas,Edwards County,20.3,19.2,-1.1
+Kansas,Elk County,30.5,27,-3.5
+Kansas,Ellis County,13.4,12.8,-0.6
+Kansas,Ellsworth County,18,16.5,-1.5
+Kansas,Finney County,14.4,14.3,-0.1
+Kansas,Ford County,13.5,14.4,0.9
+Kansas,Franklin County,23.8,23.7,-0.1
+Kansas,Geary County,16.3,16.2,-0.1
+Kansas,Gove County,13.4,12.8,-0.6
+Kansas,Graham County,15.4,15,-0.4
+Kansas,Grant County,11.8,14.5,2.7
+Kansas,Gray County,15.2,15.5,0.3
+Kansas,Greeley County,8.8,12,3.2
+Kansas,Greenwood County,27.7,22.8,-4.9
+Kansas,Hamilton County,10.6,14.1,3.5
+Kansas,Harper County,16.4,16,-0.4
+Kansas,Harvey County,17.9,19.6,1.7
+Kansas,Haskell County,13.5,13.7,0.2
+Kansas,Hodgeman County,18.1,16.9,-1.2
+Kansas,Jackson County,24.7,25.1,0.4
+Kansas,Jefferson County,28.8,30,1.2
+Kansas,Jewell County,16.7,18.4,1.7
+Kansas,Johnson County,20.2,20.9,0.7
+Kansas,Kearny County,14.1,16.3,2.2
+Kansas,Kingman County,28.3,22.1,-6.2
+Kansas,Kiowa County,15.1,14.5,-0.6
+Kansas,Labette County,15.3,15.8,0.5
+Kansas,Lane County,13.3,14.4,1.1
+Kansas,Leavenworth County,22.5,22.6,0.1
+Kansas,Lincoln County,20.7,18.8,-1.9
+Kansas,Linn County,34.2,32.8,-1.4
+Kansas,Logan County,12.7,13.1,0.4
+Kansas,Lyon County,16.9,17,0.1
+Kansas,McPherson County,13.9,13.5,-0.4
+Kansas,Marion County,19.9,20,0.1
+Kansas,Marshall County,16.4,15.5,-0.9
+Kansas,Meade County,16.5,15.3,-1.2
+Kansas,Miami County,29.8,27.9,-1.9
+Kansas,Mitchell County,10.1,9.6,-0.5
+Kansas,Montgomery County,15.8,16.6,0.8
+Kansas,Morris County,22.7,21.3,-1.4
+Kansas,Morton County,14.6,17.7,3.1
+Kansas,Nemaha County,14,15.9,1.9
+Kansas,Neosho County,14.7,16.6,1.9
+Kansas,Ness County,11.8,12.9,1.1
+Kansas,Norton County,9.5,13.6,4.1
+Kansas,Osage County,28.3,29.5,1.2
+Kansas,Osborne County,15.2,13.7,-1.5
+Kansas,Ottawa County,23.9,23.7,-0.2
+Kansas,Pawnee County,14.9,14.8,-0.1
+Kansas,Phillips County,12.5,14.1,1.6
+Kansas,Pottawatomie County,22.6,21.1,-1.5
+Kansas,Pratt County,14.3,12.8,-1.5
+Kansas,Rawlins County,14.1,15,0.9
+Kansas,Reno County,17.2,17.5,0.3
+Kansas,Republic County,14.9,17.6,2.7
+Kansas,Rice County,19.8,16.5,-3.3
+Kansas,Riley County,16,14.9,-1.1
+Kansas,Rooks County,15,16,1
+Kansas,Rush County,17.7,19,1.3
+Kansas,Russell County,14.8,14.7,-0.1
+Kansas,Saline County,14.9,14.8,-0.1
+Kansas,Scott County,17.1,14.6,-2.5
+Kansas,Sedgwick County,18.1,18.8,0.7
+Kansas,Seward County,14.1,14.8,0.7
+Kansas,Shawnee County,18.3,18,-0.3
+Kansas,Sheridan County,11,13.4,2.4
+Kansas,Sherman County,9.8,15.3,5.5
+Kansas,Smith County,14.9,14.5,-0.4
+Kansas,Stafford County,18.9,19.3,0.4
+Kansas,Stanton County,12.2,11.1,-1.1
+Kansas,Stevens County,18.5,15.7,-2.8
+Kansas,Sumner County,23,23.5,0.5
+Kansas,Thomas County,12.2,11.1,-1.1
+Kansas,Trego County,11.9,20,8.1
+Kansas,Wabaunsee County,28.5,27,-1.5
+Kansas,Wallace County,12.6,13.9,1.3
+Kansas,Washington County,17.4,19.2,1.8
+Kansas,Wichita County,14,11.8,-2.2
+Kansas,Wilson County,16.1,17.1,1
+Kansas,Woodson County,27.7,23,-4.7
+Kansas,Wyandotte County,21.1,21.5,0.4
+Kentucky,Adair County,23.1,22.2,-0.9
+Kentucky,Allen County,26.8,24.1,-2.7
+Kentucky,Anderson County,27.4,26.6,-0.8
+Kentucky,Ballard County,20.9,23.6,2.7
+Kentucky,Barren County,19.5,20.7,1.2
+Kentucky,Bath County,27.2,25.5,-1.7
+Kentucky,Bell County,21.5,20.6,-0.9
+Kentucky,Boone County,24.1,24,-0.1
+Kentucky,Bourbon County,21.5,22.7,1.2
+Kentucky,Boyd County,19.5,21.6,2.1
+Kentucky,Boyle County,20.9,20.5,-0.4
+Kentucky,Bracken County,30.8,35.6,4.8
+Kentucky,Breathitt County,25.4,27.7,2.3
+Kentucky,Breckinridge County,31.5,31.6,0.1
+Kentucky,Bullitt County,27.4,28.1,0.7
+Kentucky,Butler County,28.9,26,-2.9
+Kentucky,Caldwell County,20.9,22.4,1.5
+Kentucky,Calloway County,17.3,16.6,-0.7
+Kentucky,Campbell County,21.9,22.4,0.5
+Kentucky,Carlisle County,25.7,26.2,0.5
+Kentucky,Carroll County,19.3,18.5,-0.8
+Kentucky,Carter County,30.3,30.3,0
+Kentucky,Casey County,29.4,28.9,-0.5
+Kentucky,Christian County,18.1,17.3,-0.8
+Kentucky,Clark County,22.5,23.1,0.6
+Kentucky,Clay County,21.8,29.5,7.7
+Kentucky,Clinton County,17.3,18.4,1.1
+Kentucky,Crittenden County,30.7,24.5,-6.2
+Kentucky,Cumberland County,20.7,19.9,-0.8
+Kentucky,Daviess County,17.8,19.2,1.4
+Kentucky,Edmonson County,32.4,29.8,-2.6
+Kentucky,Elliott County,32.7,39,6.3
+Kentucky,Estill County,33.1,33.4,0.3
+Kentucky,Fayette County,19.7,20.9,1.2
+Kentucky,Fleming County,26.4,29.4,3
+Kentucky,Floyd County,23.1,23,-0.1
+Kentucky,Franklin County,18.1,19,0.9
+Kentucky,Fulton County,17.8,21.9,4.1
+Kentucky,Gallatin County,27,29.4,2.4
+Kentucky,Garrard County,28.3,34,5.7
+Kentucky,Grant County,28.9,30.2,1.3
+Kentucky,Graves County,22.7,22.7,0
+Kentucky,Grayson County,27.6,28.2,0.6
+Kentucky,Green County,27.6,26.9,-0.7
+Kentucky,Greenup County,22.3,23.1,0.8
+Kentucky,Hancock County,21.4,22.5,1.1
+Kentucky,Hardin County,20.8,22.2,1.4
+Kentucky,Harlan County,23.6,20.6,-3
+Kentucky,Harrison County,24.2,24.6,0.4
+Kentucky,Hart County,25.9,29.1,3.2
+Kentucky,Henderson County,20.6,20.8,0.2
+Kentucky,Henry County,27.7,30.5,2.8
+Kentucky,Hickman County,18.8,18.9,0.1
+Kentucky,Hopkins County,20,21.3,1.3
+Kentucky,Jackson County,35,29.3,-5.7
+Kentucky,Jefferson County,21.3,22.2,0.9
+Kentucky,Jessamine County,23.1,23.9,0.8
+Kentucky,Johnson County,24.6,26.7,2.1
+Kentucky,Kenton County,22.3,23.4,1.1
+Kentucky,Knott County,26,29.3,3.3
+Kentucky,Knox County,21.2,21.6,0.4
+Kentucky,Larue County,26,26.7,0.7
+Kentucky,Laurel County,21.7,20.1,-1.6
+Kentucky,Lawrence County,28.8,31.8,3
+Kentucky,Lee County,26.4,32.1,5.7
+Kentucky,Leslie County,27.8,32.6,4.8
+Kentucky,Letcher County,25.5,25.6,0.1
+Kentucky,Lewis County,28.7,32.4,3.7
+Kentucky,Lincoln County,27.9,28.2,0.3
+Kentucky,Livingston County,27.4,25.2,-2.2
+Kentucky,Logan County,21.9,23.3,1.4
+Kentucky,Lyon County,20.9,20.3,-0.6
+Kentucky,McCracken County,17.7,18.1,0.4
+Kentucky,McCreary County,23.8,28.2,4.4
+Kentucky,McLean County,27.5,27,-0.5
+Kentucky,Madison County,22.5,22.6,0.1
+Kentucky,Magoffin County,30.3,31.8,1.5
+Kentucky,Marion County,21.2,20.4,-0.8
+Kentucky,Marshall County,21.3,23.2,1.9
+Kentucky,Martin County,27,35.5,8.5
+Kentucky,Mason County,23,25.8,2.8
+Kentucky,Meade County,30.3,30.7,0.4
+Kentucky,Menifee County,35.3,30.9,-4.4
+Kentucky,Mercer County,24.6,26.4,1.8
+Kentucky,Metcalfe County,22.6,25.2,2.6
+Kentucky,Monroe County,20.6,23.6,3
+Kentucky,Montgomery County,24.1,22.8,-1.3
+Kentucky,Morgan County,28.2,35.2,7
+Kentucky,Muhlenberg County,24.4,23.8,-0.6
+Kentucky,Nelson County,25.6,26.2,0.6
+Kentucky,Nicholas County,30.9,32.9,2
+Kentucky,Ohio County,23.1,24.3,1.2
+Kentucky,Oldham County,25.8,27.7,1.9
+Kentucky,Owen County,30.4,31.9,1.5
+Kentucky,Owsley County,18.2,22.6,4.4
+Kentucky,Pendleton County,33.7,33.9,0.2
+Kentucky,Perry County,21.8,22.7,0.9
+Kentucky,Pike County,23.6,24.1,0.5
+Kentucky,Powell County,29.8,28.5,-1.3
+Kentucky,Pulaski County,22.4,21,-1.4
+Kentucky,Robertson County,44.2,34.4,-9.8
+Kentucky,Rockcastle County,29.3,24.7,-4.6
+Kentucky,Rowan County,22.9,22.1,-0.8
+Kentucky,Russell County,19.2,20.6,1.4
+Kentucky,Scott County,21.5,21.1,-0.4
+Kentucky,Shelby County,24.7,25.4,0.7
+Kentucky,Simpson County,18.3,19.5,1.2
+Kentucky,Spencer County,32.3,32,-0.3
+Kentucky,Taylor County,18.8,19,0.2
+Kentucky,Todd County,24.7,26.4,1.7
+Kentucky,Trigg County,24.2,26.8,2.6
+Kentucky,Trimble County,30.4,28.7,-1.7
+Kentucky,Union County,22.5,20.3,-2.2
+Kentucky,Warren County,19,20.2,1.2
+Kentucky,Washington County,30,26.5,-3.5
+Kentucky,Wayne County,26.1,20.9,-5.2
+Kentucky,Webster County,24,25.3,1.3
+Kentucky,Whitley County,21.5,20.6,-0.9
+Kentucky,Wolfe County,27.1,31.1,4
+Kentucky,Woodford County,21,21.9,0.9
+Louisiana,Acadia Parish,28.9,27.6,-1.3
+Louisiana,Allen Parish,28.9,28.3,-0.6
+Louisiana,Ascension Parish,26.9,30,3.1
+Louisiana,Assumption Parish,32,29.6,-2.4
+Louisiana,Avoyelles Parish,31.2,30.2,-1
+Louisiana,Beauregard Parish,31.4,30.1,-1.3
+Louisiana,Bienville Parish,30,32.6,2.6
+Louisiana,Bossier Parish,20.4,21.7,1.3
+Louisiana,Caddo Parish,19.5,20.9,1.4
+Louisiana,Calcasieu Parish,20.2,20.5,0.3
+Louisiana,Caldwell Parish,36.8,23.7,-13.1
+Louisiana,Cameron Parish,29,33.6,4.6
+Louisiana,Catahoula Parish,40.1,23.3,-16.8
+Louisiana,Claiborne Parish,29.7,26.2,-3.5
+Louisiana,Concordia Parish,27.5,20.2,-7.3
+Louisiana,De Soto Parish,28.6,29.2,0.6
+Louisiana,East Baton Rouge Parish,23.3,23.6,0.3
+Louisiana,East Carroll Parish,15.8,12.3,-3.5
+Louisiana,East Feliciana Parish,30.4,30.6,0.2
+Louisiana,Evangeline Parish,33.3,28.3,-5
+Louisiana,Franklin Parish,34.5,21.8,-12.7
+Louisiana,Grant Parish,30,34.5,4.5
+Louisiana,Iberia Parish,22.6,24.2,1.6
+Louisiana,Iberville Parish,25.4,24.9,-0.5
+Louisiana,Jackson Parish,26.2,30.1,3.9
+Louisiana,Jefferson Parish,23.7,24,0.3
+Louisiana,Jefferson Davis Parish,32,30.8,-1.2
+Louisiana,Lafayette Parish,22.1,24.1,2
+Louisiana,Lafourche Parish,26.5,28,1.5
+Louisiana,LaSalle Parish,38.4,41.5,3.1
+Louisiana,Lincoln Parish,19.6,19.3,-0.3
+Louisiana,Livingston Parish,34.8,33.8,-1
+Louisiana,Madison Parish,17.2,13,-4.2
+Louisiana,Morehouse Parish,22.2,23.2,1
+Louisiana,Natchitoches Parish,24.6,22.9,-1.7
+Louisiana,Orleans Parish,23.1,23.8,0.7
+Louisiana,Ouachita Parish,20.3,19.9,-0.4
+Louisiana,Plaquemines Parish,23.5,25.8,2.3
+Louisiana,Pointe Coupee Parish,30.3,29.1,-1.2
+Louisiana,Rapides Parish,21.5,22.5,1
+Louisiana,Red River Parish,29.9,33.9,4
+Louisiana,Richland Parish,23.1,20.8,-2.3
+Louisiana,Sabine Parish,31.6,32.1,0.5
+Louisiana,St. Bernard Parish,24.3,27,2.7
+Louisiana,St. Charles Parish,27.8,27,-0.8
+Louisiana,St. Helena Parish,37.6,38.5,0.9
+Louisiana,St. James Parish,24,27,3
+Louisiana,St. John the Baptist Parish,26.6,28.5,1.9
+Louisiana,St. Landry Parish,27.2,26.4,-0.8
+Louisiana,St. Martin Parish,28.8,27.2,-1.6
+Louisiana,St. Mary Parish,22.6,21.3,-1.3
+Louisiana,St. Tammany Parish,31.6,31,-0.6
+Louisiana,Tangipahoa Parish,30.4,31.3,0.9
+Louisiana,Tensas Parish,20.8,24.1,3.3
+Louisiana,Terrebonne Parish,24.4,22.7,-1.7
+Louisiana,Union Parish,29.9,31.9,2
+Louisiana,Vermilion Parish,28,28.7,0.7
+Louisiana,Vernon Parish,20.8,21.6,0.8
+Louisiana,Washington Parish,31.3,33,1.7
+Louisiana,Webster Parish,25.8,24.2,-1.6
+Louisiana,West Baton Rouge Parish,23.8,23.8,0
+Louisiana,West Carroll Parish,23.6,23.3,-0.3
+Louisiana,West Feliciana Parish,28.2,25.4,-2.8
+Louisiana,Winn Parish,30.8,27.3,-3.5
+Maine,Androscoggin County,22.9,24.2,1.3
+Maine,Aroostook County,16.7,17.6,0.9
+Maine,Cumberland County,21.9,22.9,1
+Maine,Franklin County,23.4,23.7,0.3
+Maine,Hancock County,22.6,23.1,0.5
+Maine,Kennebec County,22.4,23.4,1
+Maine,Knox County,18.8,17.4,-1.4
+Maine,Lincoln County,23.9,24.8,0.9
+Maine,Oxford County,27,28.4,1.4
+Maine,Penobscot County,21.5,22.5,1
+Maine,Piscataquis County,24.1,25.4,1.3
+Maine,Sagadahoc County,22.4,22.9,0.5
+Maine,Somerset County,24.8,24.4,-0.4
+Maine,Waldo County,26,26.4,0.4
+Maine,Washington County,19,20.9,1.9
+Maine,York County,26.5,28,1.5
+Maryland,Allegany County,22.2,20.9,-1.3
+Maryland,Anne Arundel County,28.8,30.2,1.4
+Maryland,Baltimore County,27.9,29.5,1.6
+Maryland,Calvert County,39.6,41.9,2.3
+Maryland,Caroline County,31.6,32.1,0.5
+Maryland,Carroll County,34.4,35.6,1.2
+Maryland,Cecil County,28.9,29.3,0.4
+Maryland,Charles County,41.8,43.9,2.1
+Maryland,Dorchester County,25,26.3,1.3
+Maryland,Frederick County,34.3,35,0.7
+Maryland,Garrett County,22.9,24.2,1.3
+Maryland,Harford County,30.9,32.1,1.2
+Maryland,Howard County,30.3,30.9,0.6
+Maryland,Kent County,26.1,26.7,0.6
+Maryland,Montgomery County,33.2,34.7,1.5
+Maryland,Prince George's County,35.5,36.9,1.4
+Maryland,Queen Anne's County,34.4,36.2,1.8
+Maryland,St. Mary's County,30,30.9,0.9
+Maryland,Somerset County,23,24.9,1.9
+Maryland,Talbot County,24.4,26.6,2.2
+Maryland,Washington County,28,29.3,1.3
+Maryland,Wicomico County,22.3,21.2,-1.1
+Maryland,Worcester County,22.6,24.3,1.7
+Maryland,Baltimore city,29.2,30.7,1.5
+Massachusetts,Barnstable County,23.9,23.3,-0.6
+Massachusetts,Berkshire County,19.5,20,0.5
+Massachusetts,Bristol County,25.9,28,2.1
+Massachusetts,Dukes County,16,14.6,-1.4
+Massachusetts,Essex County,27.2,29.8,2.6
+Massachusetts,Franklin County,24.6,24.2,-0.4
+Massachusetts,Hampden County,22,22.6,0.6
+Massachusetts,Hampshire County,22.8,23.2,0.4
+Massachusetts,Middlesex County,27.7,30.3,2.6
+Massachusetts,Nantucket County,10.3,12.1,1.8
+Massachusetts,Norfolk County,30.4,33.9,3.5
+Massachusetts,Plymouth County,32.2,33,0.8
+Massachusetts,Suffolk County,28.5,30.7,2.2
+Massachusetts,Worcester County,27,28.7,1.7
+Michigan,Alcona County,23.9,24,0.1
+Michigan,Alger County,18.4,21.3,2.9
+Michigan,Allegan County,23.4,23.9,0.5
+Michigan,Alpena County,16.1,16.9,0.8
+Michigan,Antrim County,22.3,25,2.7
+Michigan,Arenac County,28.9,27.2,-1.7
+Michigan,Baraga County,15.5,19,3.5
+Michigan,Barry County,27.1,28.4,1.3
+Michigan,Bay County,20.9,22.1,1.2
+Michigan,Benzie County,23.1,26.2,3.1
+Michigan,Berrien County,19.1,19.3,0.2
+Michigan,Branch County,21.7,22.5,0.8
+Michigan,Calhoun County,19.6,20.2,0.6
+Michigan,Cass County,25.4,25.1,-0.3
+Michigan,Charlevoix County,18.7,20.4,1.7
+Michigan,Cheboygan County,24.3,26.8,2.5
+Michigan,Chippewa County,16,16.8,0.8
+Michigan,Clare County,26.6,28,1.4
+Michigan,Clinton County,23.1,23.3,0.2
+Michigan,Crawford County,22.3,20.8,-1.5
+Michigan,Delta County,18.6,19.9,1.3
+Michigan,Dickinson County,15,17,2
+Michigan,Eaton County,22.1,22.3,0.2
+Michigan,Emmet County,18.8,19.1,0.3
+Michigan,Genesee County,25.7,26,0.3
+Michigan,Gladwin County,27.6,30.4,2.8
+Michigan,Gogebic County,18.3,17.3,-1
+Michigan,Grand Traverse County,19.5,20.5,1
+Michigan,Gratiot County,22,23.4,1.4
+Michigan,Hillsdale County,25,24.7,-0.3
+Michigan,Houghton County,15.7,15.7,0
+Michigan,Huron County,20.7,21,0.3
+Michigan,Ingham County,20.1,20.2,0.1
+Michigan,Ionia County,26.5,27.3,0.8
+Michigan,Iosco County,21.6,22,0.4
+Michigan,Iron County,18.6,21.9,3.3
+Michigan,Isabella County,18,17.9,-0.1
+Michigan,Jackson County,23.2,23.3,0.1
+Michigan,Kalamazoo County,19.3,20.3,1
+Michigan,Kalkaska County,27.2,28.6,1.4
+Michigan,Kent County,20.5,21.1,0.6
+Michigan,Keweenaw County,19.9,21.2,1.3
+Michigan,Lake County,29.3,27.3,-2
+Michigan,Lapeer County,34.3,34.7,0.4
+Michigan,Leelanau County,20.4,22,1.6
+Michigan,Lenawee County,26.2,26.8,0.6
+Michigan,Livingston County,31.8,32.4,0.6
+Michigan,Luce County,15.5,13.6,-1.9
+Michigan,Mackinac County,19.3,20.7,1.4
+Michigan,Macomb County,26.2,27.4,1.2
+Michigan,Manistee County,21,20.8,-0.2
+Michigan,Marquette County,17.9,17.6,-0.3
+Michigan,Mason County,18.8,17.6,-1.2
+Michigan,Mecosta County,23.3,23.8,0.5
+Michigan,Menominee County,20.3,20.8,0.5
+Michigan,Midland County,20.5,21.1,0.6
+Michigan,Missaukee County,22.3,21.4,-0.9
+Michigan,Monroe County,24.7,24.5,-0.2
+Michigan,Montcalm County,29.8,30,0.2
+Michigan,Montmorency County,24.9,29,4.1
+Michigan,Muskegon County,20.3,21.2,0.9
+Michigan,Newaygo County,28.4,28.1,-0.3
+Michigan,Oakland County,26,26.7,0.7
+Michigan,Oceana County,24.1,22,-2.1
+Michigan,Ogemaw County,23.5,23.8,0.3
+Michigan,Ontonagon County,21.5,24.6,3.1
+Michigan,Osceola County,23.8,25.2,1.4
+Michigan,Oscoda County,21.7,20.4,-1.3
+Michigan,Otsego County,21.6,19.5,-2.1
+Michigan,Ottawa County,19.9,20.5,0.6
+Michigan,Presque Isle County,23.1,24.4,1.3
+Michigan,Roscommon County,24.5,22.5,-2
+Michigan,Saginaw County,21.1,21.7,0.6
+Michigan,St. Clair County,27.7,29.1,1.4
+Michigan,St. Joseph County,22,21.4,-0.6
+Michigan,Sanilac County,29.8,27.5,-2.3
+Michigan,Schoolcraft County,18.6,18.8,0.2
+Michigan,Shiawassee County,28.6,27.4,-1.2
+Michigan,Tuscola County,28.8,29.1,0.3
+Michigan,Van Buren County,24.6,24.4,-0.2
+Michigan,Washtenaw County,22.6,23.7,1.1
+Michigan,Wayne County,24.6,25.2,0.6
+Michigan,Wexford County,21.4,21,-0.4
+Minnesota,Aitkin County,24.8,26,1.2
+Minnesota,Anoka County,27.2,28.1,0.9
+Minnesota,Becker County,21.8,22.4,0.6
+Minnesota,Beltrami County,18.9,19.8,0.9
+Minnesota,Benton County,22.3,23.1,0.8
+Minnesota,Big Stone County,18.5,17.5,-1
+Minnesota,Blue Earth County,16.9,17.3,0.4
+Minnesota,Brown County,15.1,15.1,0
+Minnesota,Carlton County,21.9,22.2,0.3
+Minnesota,Carver County,25.4,26.3,0.9
+Minnesota,Cass County,22.6,23.8,1.2
+Minnesota,Chippewa County,15.5,15.3,-0.2
+Minnesota,Chisago County,31.2,32.8,1.6
+Minnesota,Clay County,17.9,18.9,1
+Minnesota,Clearwater County,24.9,25.8,0.9
+Minnesota,Cook County,17,15.9,-1.1
+Minnesota,Cottonwood County,15.6,16.8,1.2
+Minnesota,Crow Wing County,20.5,21.4,0.9
+Minnesota,Dakota County,23.8,24.3,0.5
+Minnesota,Dodge County,22.2,24.5,2.3
+Minnesota,Douglas County,17.9,17.7,-0.2
+Minnesota,Faribault County,20.6,18.8,-1.8
+Minnesota,Fillmore County,25.2,26.5,1.3
+Minnesota,Freeborn County,18.1,18.7,0.6
+Minnesota,Goodhue County,22.5,24.1,1.6
+Minnesota,Grant County,20.6,22.7,2.1
+Minnesota,Hennepin County,22.3,23.4,1.1
+Minnesota,Houston County,20.3,21.9,1.6
+Minnesota,Hubbard County,21.3,21.6,0.3
+Minnesota,Isanti County,33.3,34.8,1.5
+Minnesota,Itasca County,21,22.7,1.7
+Minnesota,Jackson County,16.4,16.5,0.1
+Minnesota,Kanabec County,32.5,31.4,-1.1
+Minnesota,Kandiyohi County,17,17.9,0.9
+Minnesota,Kittson County,20.2,20.6,0.4
+Minnesota,Koochiching County,18,16.2,-1.8
+Minnesota,Lac qui Parle County,17.3,16.1,-1.2
+Minnesota,Lake County,20.7,21,0.3
+Minnesota,Lake of the Woods County,17.9,21,3.1
+Minnesota,Le Sueur County,24.4,25.8,1.4
+Minnesota,Lincoln County,19.8,21.8,2
+Minnesota,Lyon County,14.5,15.2,0.7
+Minnesota,McLeod County,20.8,22.5,1.7
+Minnesota,Mahnomen County,20.7,20.6,-0.1
+Minnesota,Marshall County,23.5,23.3,-0.2
+Minnesota,Martin County,14.8,17,2.2
+Minnesota,Meeker County,23.4,24.4,1
+Minnesota,Mille Lacs County,28,30,2
+Minnesota,Morrison County,25.1,26.8,1.7
+Minnesota,Mower County,18.1,17.9,-0.2
+Minnesota,Murray County,18.3,20.3,2
+Minnesota,Nicollet County,16,17.9,1.9
+Minnesota,Nobles County,15,16.1,1.1
+Minnesota,Norman County,21.9,21.1,-0.8
+Minnesota,Olmsted County,16.7,17.5,0.8
+Minnesota,Otter Tail County,19.2,21,1.8
+Minnesota,Pennington County,15,14.5,-0.5
+Minnesota,Pine County,27.5,31.1,3.6
+Minnesota,Pipestone County,16.2,20.1,3.9
+Minnesota,Polk County,17.1,18.6,1.5
+Minnesota,Pope County,19,18.3,-0.7
+Minnesota,Ramsey County,22,23.9,1.9
+Minnesota,Red Lake County,23.1,22.2,-0.9
+Minnesota,Redwood County,16.3,17.9,1.6
+Minnesota,Renville County,18.2,19.5,1.3
+Minnesota,Rice County,22,22.7,0.7
+Minnesota,Rock County,21,19.2,-1.8
+Minnesota,Roseau County,15.4,17.1,1.7
+Minnesota,St. Louis County,19.4,19.8,0.4
+Minnesota,Scott County,26.3,26,-0.3
+Minnesota,Sherburne County,31,32.4,1.4
+Minnesota,Sibley County,24.4,25.2,0.8
+Minnesota,Stearns County,20.5,20.4,-0.1
+Minnesota,Steele County,17.5,18.2,0.7
+Minnesota,Stevens County,11.2,11.6,0.4
+Minnesota,Swift County,16.3,17.3,1
+Minnesota,Todd County,23.7,24.2,0.5
+Minnesota,Traverse County,12.3,16.8,4.5
+Minnesota,Wabasha County,23.1,23.8,0.7
+Minnesota,Wadena County,22.5,21,-1.5
+Minnesota,Waseca County,18.5,20.4,1.9
+Minnesota,Washington County,25.4,25.8,0.4
+Minnesota,Watonwan County,16.6,18.4,1.8
+Minnesota,Wilkin County,18,18.5,0.5
+Minnesota,Winona County,16.6,17.9,1.3
+Minnesota,Wright County,29.7,30,0.3
+Minnesota,Yellow Medicine County,18.9,17.7,-1.2
+Mississippi,Adams County,20.5,18.9,-1.6
+Mississippi,Alcorn County,19.5,22.4,2.9
+Mississippi,Amite County,34.2,37.1,2.9
+Mississippi,Attala County,24.5,28.3,3.8
+Mississippi,Benton County,36.5,30.5,-6
+Mississippi,Bolivar County,17.5,18,0.5
+Mississippi,Calhoun County,22.8,25.1,2.3
+Mississippi,Carroll County,22.1,28.8,6.7
+Mississippi,Chickasaw County,23.8,24.1,0.3
+Mississippi,Choctaw County,23.9,29.3,5.4
+Mississippi,Claiborne County,23.9,22.4,-1.5
+Mississippi,Clarke County,32.5,32,-0.5
+Mississippi,Clay County,21.6,22.2,0.6
+Mississippi,Coahoma County,20.1,21.8,1.7
+Mississippi,Copiah County,25,31.5,6.5
+Mississippi,Covington County,29.1,26.1,-3
+Mississippi,DeSoto County,25.5,24.9,-0.6
+Mississippi,Forrest County,20.7,21.6,0.9
+Mississippi,Franklin County,42.8,31.4,-11.4
+Mississippi,George County,34.4,35.4,1
+Mississippi,Greene County,32.9,33.9,1
+Mississippi,Grenada County,20.7,18.2,-2.5
+Mississippi,Hancock County,28.8,29,0.2
+Mississippi,Harrison County,22.3,22.7,0.4
+Mississippi,Hinds County,21.6,22.8,1.2
+Mississippi,Holmes County,30.5,26.6,-3.9
+Mississippi,Humphreys County,20.5,22.7,2.2
+Mississippi,Issaquena County,23.1,24.7,1.6
+Mississippi,Itawamba County,23.8,24.4,0.6
+Mississippi,Jackson County,24.6,24.5,-0.1
+Mississippi,Jasper County,27.1,32.9,5.8
+Mississippi,Jefferson County,22.8,23.7,0.9
+Mississippi,Jefferson Davis County,34.5,34.6,0.1
+Mississippi,Jones County,23.3,21.6,-1.7
+Mississippi,Kemper County,30.6,32.2,1.6
+Mississippi,Lafayette County,17.6,18.7,1.1
+Mississippi,Lamar County,24.9,25.2,0.3
+Mississippi,Lauderdale County,19.2,19.8,0.6
+Mississippi,Lawrence County,34.1,35.5,1.4
+Mississippi,Leake County,29.9,29.7,-0.2
+Mississippi,Lee County,18.9,19.9,1
+Mississippi,Leflore County,15.9,15.5,-0.4
+Mississippi,Lincoln County,30.5,29.6,-0.9
+Mississippi,Lowndes County,20,20.8,0.8
+Mississippi,Madison County,22.8,22.1,-0.7
+Mississippi,Marion County,35.7,30.8,-4.9
+Mississippi,Marshall County,31.8,28.2,-3.6
+Mississippi,Monroe County,23.5,25,1.5
+Mississippi,Montgomery County,23.3,27.1,3.8
+Mississippi,Neshoba County,23.6,25,1.4
+Mississippi,Newton County,26.9,26.1,-0.8
+Mississippi,Noxubee County,27.6,26.7,-0.9
+Mississippi,Oktibbeha County,17.2,19.9,2.7
+Mississippi,Panola County,25.5,25.6,0.1
+Mississippi,Pearl River County,34.3,34.5,0.2
+Mississippi,Perry County,32.4,31.1,-1.3
+Mississippi,Pike County,24.1,24.4,0.3
+Mississippi,Pontotoc County,25.1,23.9,-1.2
+Mississippi,Prentiss County,21.5,25.4,3.9
+Mississippi,Quitman County,23.9,26,2.1
+Mississippi,Rankin County,24.1,25.4,1.3
+Mississippi,Scott County,23.3,25.9,2.6
+Mississippi,Sharkey County,16.9,21.4,4.5
+Mississippi,Simpson County,35.2,35.7,0.5
+Mississippi,Smith County,32.3,33,0.7
+Mississippi,Stone County,27.5,32.9,5.4
+Mississippi,Sunflower County,16.6,18.8,2.2
+Mississippi,Tallahatchie County,25.4,26.1,0.7
+Mississippi,Tate County,27.1,32.1,5
+Mississippi,Tippah County,23.4,23.9,0.5
+Mississippi,Tishomingo County,21.7,22.3,0.6
+Mississippi,Tunica County,18.3,21.5,3.2
+Mississippi,Union County,24.2,23.8,-0.4
+Mississippi,Walthall County,36.3,35.1,-1.2
+Mississippi,Warren County,19.3,18.5,-0.8
+Mississippi,Washington County,18.7,16.7,-2
+Mississippi,Wayne County,32.1,33.6,1.5
+Mississippi,Webster County,26.3,28.1,1.8
+Mississippi,Wilkinson County,26.8,33.8,7
+Mississippi,Winston County,24.8,27.6,2.8
+Mississippi,Yalobusha County,24.1,25.4,1.3
+Mississippi,Yazoo County,26.9,27.2,0.3
+Missouri,Adair County,13.9,17.1,3.2
+Missouri,Andrew County,22.6,22.5,-0.1
+Missouri,Atchison County,19.2,17.9,-1.3
+Missouri,Audrain County,19.5,21,1.5
+Missouri,Barry County,22.2,23.4,1.2
+Missouri,Barton County,21.6,22.8,1.2
+Missouri,Bates County,28,30.1,2.1
+Missouri,Benton County,34.1,27.4,-6.7
+Missouri,Bollinger County,33,32.6,-0.4
+Missouri,Boone County,17.8,17.9,0.1
+Missouri,Buchanan County,17.4,17.4,0
+Missouri,Butler County,16.4,18,1.6
+Missouri,Caldwell County,34.4,32.6,-1.8
+Missouri,Callaway County,20.2,23.5,3.3
+Missouri,Camden County,21.2,22.4,1.2
+Missouri,Cape Girardeau County,18.4,19.6,1.2
+Missouri,Carroll County,26.7,26,-0.7
+Missouri,Carter County,31.2,24.6,-6.6
+Missouri,Cass County,28.2,27.9,-0.3
+Missouri,Cedar County,22.6,25.5,2.9
+Missouri,Chariton County,23.2,23.2,0
+Missouri,Christian County,24.1,25.4,1.3
+Missouri,Clark County,24.1,23.5,-0.6
+Missouri,Clay County,22.5,23.1,0.6
+Missouri,Clinton County,28.6,31.7,3.1
+Missouri,Cole County,17.9,18,0.1
+Missouri,Cooper County,25.4,24,-1.4
+Missouri,Crawford County,27.9,26.8,-1.1
+Missouri,Dade County,25.8,24.1,-1.7
+Missouri,Dallas County,27.9,33.1,5.2
+Missouri,Daviess County,30,25.4,-4.6
+Missouri,DeKalb County,23.5,25,1.5
+Missouri,Dent County,25.4,25.6,0.2
+Missouri,Douglas County,27.6,31.5,3.9
+Missouri,Dunklin County,20.9,20.5,-0.4
+Missouri,Franklin County,27.1,28.3,1.2
+Missouri,Gasconade County,27.1,26,-1.1
+Missouri,Gentry County,22.2,21.5,-0.7
+Missouri,Greene County,19.4,19.3,-0.1
+Missouri,Grundy County,21.9,16.9,-5
+Missouri,Harrison County,22.4,19.3,-3.1
+Missouri,Henry County,26.5,23.2,-3.3
+Missouri,Hickory County,30.7,29.7,-1
+Missouri,Holt County,23.4,20.7,-2.7
+Missouri,Howard County,23.8,23.3,-0.5
+Missouri,Howell County,19.2,19.3,0.1
+Missouri,Iron County,26.9,28.2,1.3
+Missouri,Jackson County,22.7,23.4,0.7
+Missouri,Jasper County,17.8,17.7,-0.1
+Missouri,Jefferson County,30.2,30.9,0.7
+Missouri,Johnson County,27.1,21.5,-5.6
+Missouri,Knox County,23.2,22.8,-0.4
+Missouri,Laclede County,21.2,21.3,0.1
+Missouri,Lafayette County,28,25.5,-2.5
+Missouri,Lawrence County,20.9,22.2,1.3
+Missouri,Lewis County,23.9,25.3,1.4
+Missouri,Lincoln County,33.3,33.1,-0.2
+Missouri,Linn County,19.6,19,-0.6
+Missouri,Livingston County,17.3,18.7,1.4
+Missouri,McDonald County,27.6,25.9,-1.7
+Missouri,Macon County,21.8,20,-1.8
+Missouri,Madison County,23.8,25.4,1.6
+Missouri,Maries County,28.2,31,2.8
+Missouri,Marion County,17.7,18.6,0.9
+Missouri,Mercer County,21.4,21.7,0.3
+Missouri,Miller County,27,26.6,-0.4
+Missouri,Mississippi County,19.4,16.5,-2.9
+Missouri,Moniteau County,25.9,25.1,-0.8
+Missouri,Monroe County,25.7,25.3,-0.4
+Missouri,Montgomery County,28.4,25.8,-2.6
+Missouri,Morgan County,27.1,23.6,-3.5
+Missouri,New Madrid County,18.4,19.1,0.7
+Missouri,Newton County,20.2,21.7,1.5
+Missouri,Nodaway County,15.8,16.1,0.3
+Missouri,Oregon County,27.6,20.9,-6.7
+Missouri,Osage County,26.4,25.6,-0.8
+Missouri,Ozark County,28.5,29.4,0.9
+Missouri,Pemiscot County,16.4,17.4,1
+Missouri,Perry County,22.2,23.2,1
+Missouri,Pettis County,21.5,18.3,-3.2
+Missouri,Phelps County,17.7,19.6,1.9
+Missouri,Pike County,21,23,2
+Missouri,Platte County,22.9,23.2,0.3
+Missouri,Polk County,26,24.2,-1.8
+Missouri,Pulaski County,20.4,18.8,-1.6
+Missouri,Putnam County,20.6,19.8,-0.8
+Missouri,Ralls County,23.3,22.5,-0.8
+Missouri,Randolph County,20.5,21.4,0.9
+Missouri,Ray County,31.8,30.3,-1.5
+Missouri,Reynolds County,26.1,22.8,-3.3
+Missouri,Ripley County,22.1,24.8,2.7
+Missouri,St. Charles County,25,25.5,0.5
+Missouri,St. Clair County,25.7,29.6,3.9
+Missouri,Ste. Genevieve County,28.1,26.8,-1.3
+Missouri,St. Francois County,26.1,24.7,-1.4
+Missouri,St. Louis County,23.2,24.2,1
+Missouri,Saline County,20.4,16.5,-3.9
+Missouri,Schuyler County,26.5,25.4,-1.1
+Missouri,Scotland County,22.6,19.8,-2.8
+Missouri,Scott County,19.1,20,0.9
+Missouri,Shannon County,23.8,25.5,1.7
+Missouri,Shelby County,24.3,21.5,-2.8
+Missouri,Stoddard County,21.4,22.1,0.7
+Missouri,Stone County,26.4,28.9,2.5
+Missouri,Sullivan County,18.4,16.2,-2.2
+Missouri,Taney County,20.3,21.2,0.9
+Missouri,Texas County,24.4,24.7,0.3
+Missouri,Vernon County,17.3,17.1,-0.2
+Missouri,Warren County,29.7,30.7,1
+Missouri,Washington County,34.2,33.3,-0.9
+Missouri,Wayne County,25.5,26.1,0.6
+Missouri,Webster County,30.3,28.9,-1.4
+Missouri,Worth County,22.4,25.7,3.3
+Missouri,Wright County,24.2,27.6,3.4
+Missouri,St. Louis city,24.4,24.1,-0.3
+Montana,Beaverhead County,13.7,14.2,0.5
+Montana,Big Horn County,19,18.1,-0.9
+Montana,Blaine County,13.3,15.5,2.2
+Montana,Broadwater County,25.6,26.5,0.9
+Montana,Carbon County,23.3,27.5,4.2
+Montana,Carter County,13,18,5
+Montana,Cascade County,15.9,15.3,-0.6
+Montana,Chouteau County,18.6,17.2,-1.4
+Montana,Custer County,14.3,12.8,-1.5
+Montana,Daniels County,12.5,11.4,-1.1
+Montana,Dawson County,16.6,17.4,0.8
+Montana,Deer Lodge County,21.5,17.2,-4.3
+Montana,Fallon County,11.3,13.1,1.8
+Montana,Fergus County,13.8,12.4,-1.4
+Montana,Flathead County,18.2,19.1,0.9
+Montana,Gallatin County,18.3,17.7,-0.6
+Montana,Garfield County,11.4,12,0.6
+Montana,Glacier County,11.4,14.8,3.4
+Montana,Golden Valley County,30.7,25.2,-5.5
+Montana,Granite County,22.2,24.3,2.1
+Montana,Hill County,14,11.7,-2.3
+Montana,Jefferson County,20.1,20.3,0.2
+Montana,Judith Basin County,18.2,16.4,-1.8
+Montana,Lake County,18.9,19.7,0.8
+Montana,Lewis and Clark County,17.3,16.4,-0.9
+Montana,Liberty County,18,10.7,-7.3
+Montana,Lincoln County,16.4,16.8,0.4
+Montana,McCone County,16.5,16.7,0.2
+Montana,Madison County,19.4,21.4,2
+Montana,Meagher County,17.8,13.4,-4.4
+Montana,Mineral County,19.2,22.3,3.1
+Montana,Missoula County,17.4,18.1,0.7
+Montana,Musselshell County,25.2,30.5,5.3
+Montana,Park County,22,25.9,3.9
+Montana,Petroleum County,9.9,14,4.1
+Montana,Phillips County,13.7,19.5,5.8
+Montana,Pondera County,16.2,14.3,-1.9
+Montana,Powder River County,15,16.9,1.9
+Montana,Powell County,19,21.8,2.8
+Montana,Prairie County,10.8,12.8,2
+Montana,Ravalli County,23.1,22.8,-0.3
+Montana,Richland County,16.5,16,-0.5
+Montana,Roosevelt County,13,14.1,1.1
+Montana,Rosebud County,12.9,12.8,-0.1
+Montana,Sanders County,23.3,19.3,-4
+Montana,Sheridan County,13.6,14.6,1
+Montana,Silver Bow County,16.1,15.1,-1
+Montana,Stillwater County,26.5,24.1,-2.4
+Montana,Sweet Grass County,21.3,22.1,0.8
+Montana,Teton County,19.3,18.4,-0.9
+Montana,Toole County,17.5,14.9,-2.6
+Montana,Treasure County,14.5,17.6,3.1
+Montana,Valley County,12.3,15.4,3.1
+Montana,Wheatland County,20.8,8,-12.8
+Montana,Wibaux County,12.2,18.6,6.4
+Montana,Yellowstone County,17.7,18.4,0.7
+Nebraska,Adams County,14.4,15.3,0.9
+Nebraska,Antelope County,17.8,16,-1.8
+Nebraska,Arthur County,22.3,20.8,-1.5
+Nebraska,Banner County,25.6,24.8,-0.8
+Nebraska,Blaine County,21,20.6,-0.4
+Nebraska,Boone County,18.7,15.5,-3.2
+Nebraska,Box Butte County,11.7,10.8,-0.9
+Nebraska,Boyd County,19.2,17.2,-2
+Nebraska,Brown County,12.8,14.5,1.7
+Nebraska,Buffalo County,14.7,14.6,-0.1
+Nebraska,Burt County,22.1,22.4,0.3
+Nebraska,Butler County,20.9,22,1.1
+Nebraska,Cass County,26.1,26.1,0
+Nebraska,Cedar County,17.5,16.4,-1.1
+Nebraska,Chase County,10.9,12.7,1.8
+Nebraska,Cherry County,13.6,12.3,-1.3
+Nebraska,Cheyenne County,14.1,13.3,-0.8
+Nebraska,Clay County,18.4,20.9,2.5
+Nebraska,Colfax County,18.8,16.2,-2.6
+Nebraska,Cuming County,16.3,15.4,-0.9
+Nebraska,Custer County,16.4,16.2,-0.2
+Nebraska,Dakota County,16.2,14.7,-1.5
+Nebraska,Dawes County,13.2,12.8,-0.4
+Nebraska,Dawson County,14.5,15.3,0.8
+Nebraska,Deuel County,21.3,21,-0.3
+Nebraska,Dixon County,21.6,21,-0.6
+Nebraska,Dodge County,17.6,18.5,0.9
+Nebraska,Douglas County,18.4,19.3,0.9
+Nebraska,Dundy County,14.3,14.4,0.1
+Nebraska,Fillmore County,15,16.3,1.3
+Nebraska,Franklin County,17.8,18.2,0.4
+Nebraska,Frontier County,18.5,20.3,1.8
+Nebraska,Furnas County,17.2,13.2,-4
+Nebraska,Gage County,22,19.8,-2.2
+Nebraska,Garden County,16.6,21.4,4.8
+Nebraska,Garfield County,12.8,11.5,-1.3
+Nebraska,Gosper County,20.6,16.4,-4.2
+Nebraska,Grant County,15.3,20.9,5.6
+Nebraska,Greeley County,18.6,21.7,3.1
+Nebraska,Hall County,14.8,17,2.2
+Nebraska,Hamilton County,17.2,17.6,0.4
+Nebraska,Harlan County,18.8,16.8,-2
+Nebraska,Hayes County,19.6,24.5,4.9
+Nebraska,Hitchcock County,17.1,20.8,3.7
+Nebraska,Holt County,15.7,14.3,-1.4
+Nebraska,Hooker County,13.9,11.7,-2.2
+Nebraska,Howard County,22,24.2,2.2
+Nebraska,Jefferson County,16,16,0
+Nebraska,Johnson County,23.6,22.1,-1.5
+Nebraska,Kearney County,18.8,18.4,-0.4
+Nebraska,Keith County,15.2,14.4,-0.8
+Nebraska,Keya Paha County,14.3,18.8,4.5
+Nebraska,Kimball County,18.7,14.3,-4.4
+Nebraska,Knox County,16.7,17.2,0.5
+Nebraska,Lancaster County,17.9,18.8,0.9
+Nebraska,Lincoln County,15.2,14.8,-0.4
+Nebraska,Logan County,29.4,27.8,-1.6
+Nebraska,Loup County,28.9,26.7,-2.2
+Nebraska,McPherson County,25.8,30.1,4.3
+Nebraska,Madison County,15,14.2,-0.8
+Nebraska,Merrick County,21.7,19.5,-2.2
+Nebraska,Morrill County,18.5,17.8,-0.7
+Nebraska,Nance County,23.3,19.4,-3.9
+Nebraska,Nemaha County,16.3,19.6,3.3
+Nebraska,Nuckolls County,14.7,16.1,1.4
+Nebraska,Otoe County,20.9,21.7,0.8
+Nebraska,Pawnee County,20.7,20.8,0.1
+Nebraska,Perkins County,17.1,13.7,-3.4
+Nebraska,Phelps County,12.3,13.8,1.5
+Nebraska,Pierce County,18.9,19.2,0.3
+Nebraska,Platte County,15.4,14,-1.4
+Nebraska,Polk County,18.5,19.9,1.4
+Nebraska,Red Willow County,13.1,12.2,-0.9
+Nebraska,Richardson County,16.4,18.6,2.2
+Nebraska,Rock County,14.3,16.2,1.9
+Nebraska,Saline County,18.2,20,1.8
+Nebraska,Sarpy County,19.9,20.6,0.7
+Nebraska,Saunders County,25.3,25.3,0
+Nebraska,Scotts Bluff County,16,15.4,-0.6
+Nebraska,Seward County,20,21.7,1.7
+Nebraska,Sheridan County,18.2,17.4,-0.8
+Nebraska,Sherman County,26.9,25.5,-1.4
+Nebraska,Sioux County,20.3,18.9,-1.4
+Nebraska,Stanton County,18.7,18.4,-0.3
+Nebraska,Thayer County,14.3,12.8,-1.5
+Nebraska,Thomas County,19,14.3,-4.7
+Nebraska,Thurston County,17,15.8,-1.2
+Nebraska,Valley County,13.5,18.1,4.6
+Nebraska,Washington County,22.5,20.8,-1.7
+Nebraska,Wayne County,14.7,17.5,2.8
+Nebraska,Webster County,15.4,20.9,5.5
+Nebraska,Wheeler County,15.4,18.8,3.4
+Nebraska,York County,14,15.5,1.5
+Nevada,Churchill County,17.9,20.1,2.2
+Nevada,Clark County,24.3,24.5,0.2
+Nevada,Douglas County,23.2,23.9,0.7
+Nevada,Elko County,26.3,31.3,5
+Nevada,Esmeralda County,13.1,15.9,2.8
+Nevada,Eureka County,18.7,22.5,3.8
+Nevada,Humboldt County,28.4,29.9,1.5
+Nevada,Lander County,24.8,23.6,-1.2
+Nevada,Lincoln County,29.4,13.2,-16.2
+Nevada,Lyon County,26.4,29.6,3.2
+Nevada,Mineral County,10.5,13.1,2.6
+Nevada,Nye County,27.9,24.4,-3.5
+Nevada,Pershing County,19.9,16.7,-3.2
+Nevada,Storey County,29.2,26.7,-2.5
+Nevada,Washoe County,20.8,21.4,0.6
+Nevada,White Pine County,18.4,14.2,-4.2
+Nevada,Carson City,16.4,18.5,2.1
+New Hampshire,Belknap County,24.4,26.4,2
+New Hampshire,Carroll County,24.6,26.2,1.6
+New Hampshire,Cheshire County,21.1,23.4,2.3
+New Hampshire,Coos County,23,20.8,-2.2
+New Hampshire,Grafton County,21.6,22,0.4
+New Hampshire,Hillsborough County,25.9,27.9,2
+New Hampshire,Merrimack County,25.2,26.3,1.1
+New Hampshire,Rockingham County,28.6,30.2,1.6
+New Hampshire,Strafford County,24.9,26.7,1.8
+New Hampshire,Sullivan County,23.8,24.1,0.3
+New Jersey,Atlantic County,23.5,24.2,0.7
+New Jersey,Bergen County,29.6,32.3,2.7
+New Jersey,Burlington County,28.1,29.3,1.2
+New Jersey,Camden County,27,28.3,1.3
+New Jersey,Cape May County,21.8,22.9,1.1
+New Jersey,Cumberland County,24.1,23.6,-0.5
+New Jersey,Essex County,31.1,34.4,3.3
+New Jersey,Gloucester County,28,29.9,1.9
+New Jersey,Hudson County,32.8,35.7,2.9
+New Jersey,Hunterdon County,34.1,33.9,-0.2
+New Jersey,Mercer County,26.9,28.3,1.4
+New Jersey,Middlesex County,31.7,33.3,1.6
+New Jersey,Monmouth County,33.3,33.6,0.3
+New Jersey,Morris County,29.7,30.9,1.2
+New Jersey,Ocean County,30.7,30.7,0
+New Jersey,Passaic County,26.8,27.6,0.8
+New Jersey,Salem County,28.7,25.6,-3.1
+New Jersey,Somerset County,31.2,32,0.8
+New Jersey,Sussex County,37.9,38.2,0.3
+New Jersey,Union County,27.6,31.1,3.5
+New Jersey,Warren County,35.5,35.4,-0.1
+New Mexico,Bernalillo County,21.9,21.9,0
+New Mexico,Catron County,27.9,14.6,-13.3
+New Mexico,Chaves County,16.5,19.8,3.3
+New Mexico,Cibola County,26,23.4,-2.6
+New Mexico,Colfax County,16.3,15.6,-0.7
+New Mexico,Curry County,15.3,14.3,-1
+New Mexico,De Baca County,18.5,10.3,-8.2
+New Mexico,Dona Ana County,18.9,20.8,1.9
+New Mexico,Eddy County,17.4,17.7,0.3
+New Mexico,Grant County,17.7,16.4,-1.3
+New Mexico,Guadalupe County,16.2,18.3,2.1
+New Mexico,Harding County,18.3,23,4.7
+New Mexico,Hidalgo County,16.6,19.9,3.3
+New Mexico,Lea County,17.6,20.4,2.8
+New Mexico,Lincoln County,16.6,21.1,4.5
+New Mexico,Los Alamos County,15.9,15.7,-0.2
+New Mexico,Luna County,17.9,17.8,-0.1
+New Mexico,McKinley County,22.4,22.1,-0.3
+New Mexico,Mora County,31.6,31,-0.6
+New Mexico,Otero County,20,18.5,-1.5
+New Mexico,Quay County,19.3,15.5,-3.8
+New Mexico,Rio Arriba County,28.5,27.2,-1.3
+New Mexico,Roosevelt County,14.6,17.6,3
+New Mexico,Sandoval County,29,28.4,-0.6
+New Mexico,San Juan County,24.9,23.9,-1
+New Mexico,San Miguel County,20.9,20.8,-0.1
+New Mexico,Santa Fe County,21.7,22.3,0.6
+New Mexico,Sierra County,14,16.7,2.7
+New Mexico,Socorro County,18.5,16.9,-1.6
+New Mexico,Taos County,20,20.2,0.2
+New Mexico,Torrance County,33.6,29.6,-4
+New Mexico,Union County,13.7,15.1,1.4
+New Mexico,Valencia County,30.1,28.8,-1.3
+New York,Albany County,19.7,20.4,0.7
+New York,Allegany County,21.2,21.4,0.2
+New York,Bronx County,41.7,44.2,2.5
+New York,Broome County,18.2,19.7,1.5
+New York,Cattaraugus County,21.4,21.9,0.5
+New York,Cayuga County,20.9,23,2.1
+New York,Chautauqua County,17.6,18,0.4
+New York,Chemung County,19.6,19.6,0
+New York,Chenango County,21.9,24.1,2.2
+New York,Clinton County,18.8,19.8,1
+New York,Columbia County,25.1,25.8,0.7
+New York,Cortland County,20.8,20.5,-0.3
+New York,Delaware County,21.3,24.4,3.1
+New York,Dutchess County,29.9,32.2,2.3
+New York,Erie County,21,21.3,0.3
+New York,Essex County,20.7,21.9,1.2
+New York,Franklin County,19,20.9,1.9
+New York,Fulton County,22.5,25,2.5
+New York,Genesee County,21.6,22.2,0.6
+New York,Greene County,25,27.6,2.6
+New York,Hamilton County,21.7,25.3,3.6
+New York,Herkimer County,23.3,23.1,-0.2
+New York,Jefferson County,18.7,17.4,-1.3
+New York,Kings County,41.6,42.4,0.8
+New York,Lewis County,23.4,24.5,1.1
+New York,Livingston County,24.5,25.5,1
+New York,Madison County,23.4,23.3,-0.1
+New York,Monroe County,19.1,20.1,1
+New York,Montgomery County,24.1,24.5,0.4
+New York,Nassau County,33.3,35.8,2.5
+New York,New York County,30.1,31.8,1.7
+New York,Niagara County,20.8,22,1.2
+New York,Oneida County,19.4,19.6,0.2
+New York,Onondaga County,19.1,20.1,1
+New York,Ontario County,21.8,23.2,1.4
+New York,Orange County,33.5,33.4,-0.1
+New York,Orleans County,24.4,24.1,-0.3
+New York,Oswego County,24.1,24.8,0.7
+New York,Otsego County,21.4,22.4,1
+New York,Putnam County,37,39.2,2.2
+New York,Queens County,42,43.5,1.5
+New York,Rensselaer County,22.4,24.4,2
+New York,Richmond County,42,44,2
+New York,Rockland County,29.8,31,1.2
+New York,St. Lawrence County,20.2,20.9,0.7
+New York,Saratoga County,24.9,25.3,0.4
+New York,Schenectady County,21.9,22.9,1
+New York,Schoharie County,26.7,29.7,3
+New York,Schuyler County,25.1,24.8,-0.3
+New York,Seneca County,21.7,22.3,0.6
+New York,Steuben County,21.5,21.7,0.2
+New York,Suffolk County,30.2,32,1.8
+New York,Sullivan County,27.1,30.6,3.5
+New York,Tioga County,24,23,-1
+New York,Tompkins County,18.4,18.6,0.2
+New York,Ulster County,26.7,28.2,1.5
+New York,Warren County,21.1,22.8,1.7
+New York,Washington County,26.6,26.2,-0.4
+New York,Wayne County,24.4,24.9,0.5
+New York,Westchester County,31.7,34.1,2.4
+New York,Wyoming County,24.2,24.7,0.5
+New York,Yates County,22,22.5,0.5
+North Carolina,Alamance County,22,23.6,1.6
+North Carolina,Alexander County,24.5,25.6,1.1
+North Carolina,Alleghany County,24.6,25,0.4
+North Carolina,Anson County,23.9,27.8,3.9
+North Carolina,Ashe County,25,26.5,1.5
+North Carolina,Avery County,23.3,22.5,-0.8
+North Carolina,Beaufort County,26.8,25.1,-1.7
+North Carolina,Bertie County,25.7,24.8,-0.9
+North Carolina,Bladen County,26,24.7,-1.3
+North Carolina,Brunswick County,24.2,24.2,0
+North Carolina,Buncombe County,20.7,20.1,-0.6
+North Carolina,Burke County,21.4,21.5,0.1
+North Carolina,Cabarrus County,26.6,27.8,1.2
+North Carolina,Caldwell County,22.5,23.4,0.9
+North Carolina,Camden County,30.8,33.7,2.9
+North Carolina,Carteret County,23.3,23.2,-0.1
+North Carolina,Caswell County,30.6,31,0.4
+North Carolina,Catawba County,21,22.6,1.6
+North Carolina,Chatham County,26.1,28.7,2.6
+North Carolina,Cherokee County,21.6,24.6,3
+North Carolina,Chowan County,28.5,28.2,-0.3
+North Carolina,Clay County,23.5,21.3,-2.2
+North Carolina,Cleveland County,22.6,24,1.4
+North Carolina,Columbus County,26.8,26.4,-0.4
+North Carolina,Craven County,20.1,21.6,1.5
+North Carolina,Cumberland County,21,20.5,-0.5
+North Carolina,Currituck County,32,37.2,5.2
+North Carolina,Dare County,20.5,20.2,-0.3
+North Carolina,Davidson County,22.6,24.8,2.2
+North Carolina,Davie County,23.9,26.3,2.4
+North Carolina,Duplin County,23.8,26.1,2.3
+North Carolina,Durham County,21.7,22.9,1.2
+North Carolina,Edgecombe County,20.2,22,1.8
+North Carolina,Forsyth County,20.3,21.4,1.1
+North Carolina,Franklin County,32.4,31.7,-0.7
+North Carolina,Gaston County,24.6,25.4,0.8
+North Carolina,Gates County,39.2,36.5,-2.7
+North Carolina,Graham County,17.8,27.5,9.7
+North Carolina,Granville County,27.5,28.6,1.1
+North Carolina,Greene County,24.4,25.8,1.4
+North Carolina,Guilford County,20.7,21.5,0.8
+North Carolina,Halifax County,21.6,25.2,3.6
+North Carolina,Harnett County,27.9,29.2,1.3
+North Carolina,Haywood County,22.3,22.8,0.5
+North Carolina,Henderson County,21,21.6,0.6
+North Carolina,Hertford County,23.1,24.2,1.1
+North Carolina,Hoke County,25.1,27.1,2
+North Carolina,Hyde County,25.5,24.7,-0.8
+North Carolina,Iredell County,24,25.6,1.6
+North Carolina,Jackson County,19.7,20.4,0.7
+North Carolina,Johnston County,28.2,29.9,1.7
+North Carolina,Jones County,28.3,27.4,-0.9
+North Carolina,Lee County,22.2,24.7,2.5
+North Carolina,Lenoir County,22.3,22.2,-0.1
+North Carolina,Lincoln County,28.8,30,1.2
+North Carolina,McDowell County,22.6,23,0.4
+North Carolina,Macon County,21.4,21.4,0
+North Carolina,Madison County,31.5,28.9,-2.6
+North Carolina,Martin County,23.5,24,0.5
+North Carolina,Mecklenburg County,24.7,25.8,1.1
+North Carolina,Mitchell County,25.9,25.6,-0.3
+North Carolina,Montgomery County,25.5,24,-1.5
+North Carolina,Moore County,22.5,24,1.5
+North Carolina,Nash County,21,21.9,0.9
+North Carolina,New Hanover County,19.8,20.4,0.6
+North Carolina,Northampton County,26.5,25.6,-0.9
+North Carolina,Onslow County,22.5,21.4,-1.1
+North Carolina,Orange County,21.8,22.2,0.4
+North Carolina,Pamlico County,25.7,28.4,2.7
+North Carolina,Pasquotank County,23.6,28.3,4.7
+North Carolina,Pender County,27.8,28.9,1.1
+North Carolina,Perquimans County,28.7,29.6,0.9
+North Carolina,Person County,29.8,30.7,0.9
+North Carolina,Pitt County,19.6,20.6,1
+North Carolina,Polk County,27,25.7,-1.3
+North Carolina,Randolph County,22.7,23.8,1.1
+North Carolina,Richmond County,19.8,21.5,1.7
+North Carolina,Robeson County,23.5,23.8,0.3
+North Carolina,Rockingham County,25.6,25.6,0
+North Carolina,Rowan County,22.7,24.2,1.5
+North Carolina,Rutherford County,23.1,25.8,2.7
+North Carolina,Sampson County,24.1,25.6,1.5
+North Carolina,Scotland County,19.6,21.8,2.2
+North Carolina,Stanly County,26.2,25.7,-0.5
+North Carolina,Stokes County,28.8,28.7,-0.1
+North Carolina,Surry County,25.3,24.5,-0.8
+North Carolina,Swain County,17.3,18.7,1.4
+North Carolina,Transylvania County,21.5,26.1,4.6
+North Carolina,Tyrrell County,30.4,29.5,-0.9
+North Carolina,Union County,28.6,29.5,0.9
+North Carolina,Vance County,23.1,22.6,-0.5
+North Carolina,Wake County,24.1,24.9,0.8
+North Carolina,Warren County,29.3,28.5,-0.8
+North Carolina,Washington County,25.1,25.1,0
+North Carolina,Watauga County,18.6,20,1.4
+North Carolina,Wayne County,21.8,21.9,0.1
+North Carolina,Wilkes County,23.6,23.3,-0.3
+North Carolina,Wilson County,19.5,20.7,1.2
+North Carolina,Yadkin County,26.3,26.6,0.3
+North Carolina,Yancey County,25.6,28.7,3.1
+North Dakota,Adams County,12.8,17.3,4.5
+North Dakota,Barnes County,14.6,17,2.4
+North Dakota,Benson County,16.2,18,1.8
+North Dakota,Billings County,24.9,27.6,2.7
+North Dakota,Bottineau County,18.5,18.7,0.2
+North Dakota,Bowman County,12.3,14.3,2
+North Dakota,Burke County,17.4,23.9,6.5
+North Dakota,Burleigh County,16.1,17.2,1.1
+North Dakota,Cass County,15.9,16,0.1
+North Dakota,Cavalier County,12.1,12.5,0.4
+North Dakota,Dickey County,13.7,13.4,-0.3
+North Dakota,Divide County,13.9,17,3.1
+North Dakota,Dunn County,22.3,22.9,0.6
+North Dakota,Eddy County,16.8,17.1,0.3
+North Dakota,Emmons County,20.4,15.8,-4.6
+North Dakota,Foster County,13.2,12.9,-0.3
+North Dakota,Golden Valley County,18.3,14.3,-4
+North Dakota,Grand Forks County,13.5,14.2,0.7
+North Dakota,Grant County,23.1,22.1,-1
+North Dakota,Griggs County,18.9,18.8,-0.1
+North Dakota,Hettinger County,16.8,19.8,3
+North Dakota,Kidder County,23.8,23.7,-0.1
+North Dakota,LaMoure County,16.7,17.5,0.8
+North Dakota,Logan County,18.3,14.4,-3.9
+North Dakota,McHenry County,29.7,26.5,-3.2
+North Dakota,McIntosh County,11.3,11.5,0.2
+North Dakota,McKenzie County,20.4,17.4,-3
+North Dakota,McLean County,22.2,23.1,0.9
+North Dakota,Mercer County,15.4,17.8,2.4
+North Dakota,Morton County,20.4,20.1,-0.3
+North Dakota,Mountrail County,16.1,17.1,1
+North Dakota,Nelson County,21.2,17.9,-3.3
+North Dakota,Oliver County,20.9,29.1,8.2
+North Dakota,Pembina County,16,16.9,0.9
+North Dakota,Pierce County,15.4,14.9,-0.5
+North Dakota,Ramsey County,11,12.9,1.9
+North Dakota,Ransom County,18.4,18.6,0.2
+North Dakota,Renville County,20.9,26.6,5.7
+North Dakota,Richland County,19.2,18.2,-1
+North Dakota,Rolette County,15.4,16.9,1.5
+North Dakota,Sargent County,16.9,13.8,-3.1
+North Dakota,Sheridan County,17.4,23.8,6.4
+North Dakota,Sioux County,17.3,17.9,0.6
+North Dakota,Slope County,23.5,27.9,4.4
+North Dakota,Stark County,16.3,18.2,1.9
+North Dakota,Steele County,17.7,17.9,0.2
+North Dakota,Stutsman County,13.2,15,1.8
+North Dakota,Towner County,14.6,14.9,0.3
+North Dakota,Traill County,18,21.2,3.2
+North Dakota,Walsh County,16.1,16.1,0
+North Dakota,Ward County,14.6,18.9,4.3
+North Dakota,Wells County,12.8,14.9,2.1
+North Dakota,Williams County,15,18.5,3.5
+Ohio,Adams County,31.3,36.5,5.2
+Ohio,Allen County,18.9,18.9,0
+Ohio,Ashland County,21.8,24.4,2.6
+Ohio,Ashtabula County,24.8,25.9,1.1
+Ohio,Athens County,20.3,20.2,-0.1
+Ohio,Auglaize County,18.9,19.6,0.7
+Ohio,Belmont County,24.8,23.2,-1.6
+Ohio,Brown County,33.9,36.5,2.6
+Ohio,Butler County,23.1,24.4,1.3
+Ohio,Carroll County,31.6,28.5,-3.1
+Ohio,Champaign County,22.8,25.9,3.1
+Ohio,Clark County,21.7,22,0.3
+Ohio,Clermont County,27.9,28,0.1
+Ohio,Clinton County,25,25.6,0.6
+Ohio,Columbiana County,24,25.3,1.3
+Ohio,Coshocton County,22.9,23.9,1
+Ohio,Crawford County,21.5,20.8,-0.7
+Ohio,Cuyahoga County,23.5,24.3,0.8
+Ohio,Darke County,23.3,23.2,-0.1
+Ohio,Defiance County,19.4,20.3,0.9
+Ohio,Delaware County,25.1,26.2,1.1
+Ohio,Erie County,18.7,21,2.3
+Ohio,Fairfield County,26.9,28.3,1.4
+Ohio,Fayette County,23.2,24,0.8
+Ohio,Franklin County,21,21.8,0.8
+Ohio,Fulton County,22.5,24.1,1.6
+Ohio,Gallia County,24.8,29,4.2
+Ohio,Geauga County,26.9,28.3,1.4
+Ohio,Greene County,19.5,21,1.5
+Ohio,Guernsey County,23.8,24.4,0.6
+Ohio,Hamilton County,22.5,23.2,0.7
+Ohio,Hancock County,17.1,17.1,0
+Ohio,Hardin County,23.4,25.2,1.8
+Ohio,Harrison County,27.7,28.3,0.6
+Ohio,Henry County,19.6,22.3,2.7
+Ohio,Highland County,27.1,29.2,2.1
+Ohio,Hocking County,31.8,32,0.2
+Ohio,Holmes County,22.2,20.9,-1.3
+Ohio,Huron County,21.7,22.5,0.8
+Ohio,Jackson County,26,25.6,-0.4
+Ohio,Jefferson County,22.4,25,2.6
+Ohio,Knox County,25.9,24.9,-1
+Ohio,Lake County,23.2,23.6,0.4
+Ohio,Lawrence County,23.4,23.5,0.1
+Ohio,Licking County,25.8,25.8,0
+Ohio,Logan County,21.5,22,0.5
+Ohio,Lorain County,24.1,24.2,0.1
+Ohio,Lucas County,19.8,20.6,0.8
+Ohio,Madison County,23.3,25.3,2
+Ohio,Mahoning County,20.9,21.9,1
+Ohio,Marion County,19.7,22,2.3
+Ohio,Medina County,27.3,27.1,-0.2
+Ohio,Meigs County,30.1,30.9,0.8
+Ohio,Mercer County,18.3,17.5,-0.8
+Ohio,Miami County,20.7,20.9,0.2
+Ohio,Monroe County,28.9,33.9,5
+Ohio,Montgomery County,20.8,21.5,0.7
+Ohio,Morgan County,34.3,31.2,-3.1
+Ohio,Morrow County,30.5,29.5,-1
+Ohio,Muskingum County,23.9,23.7,-0.2
+Ohio,Noble County,26.6,30.7,4.1
+Ohio,Ottawa County,22.2,23.9,1.7
+Ohio,Paulding County,21.8,22.4,0.6
+Ohio,Perry County,33.7,31.8,-1.9
+Ohio,Pickaway County,27.2,28.1,0.9
+Ohio,Pike County,28.1,28.2,0.1
+Ohio,Portage County,24.2,25.5,1.3
+Ohio,Preble County,24.9,26.5,1.6
+Ohio,Putnam County,22.1,22.2,0.1
+Ohio,Richland County,20.6,22.2,1.6
+Ohio,Ross County,25.7,25.7,0
+Ohio,Sandusky County,19.4,20.3,0.9
+Ohio,Scioto County,24.6,25.6,1
+Ohio,Seneca County,19.9,21.3,1.4
+Ohio,Shelby County,18,18,0
+Ohio,Stark County,21.2,21.8,0.6
+Ohio,Summit County,22.4,22.8,0.4
+Ohio,Trumbull County,22.4,22.8,0.4
+Ohio,Tuscarawas County,21,22.3,1.3
+Ohio,Union County,23.8,24.7,0.9
+Ohio,Van Wert County,18.3,19.3,1
+Ohio,Vinton County,30.1,31.7,1.6
+Ohio,Warren County,24.4,25.4,1
+Ohio,Washington County,22.3,22.1,-0.2
+Ohio,Wayne County,19.8,20.6,0.8
+Ohio,Williams County,18.4,19.3,0.9
+Ohio,Wood County,19.6,20.1,0.5
+Ohio,Wyandot County,20.9,21.7,0.8
+Oklahoma,Adair County,25.2,23.1,-2.1
+Oklahoma,Alfalfa County,18.3,18.8,0.5
+Oklahoma,Atoka County,22.7,25.3,2.6
+Oklahoma,Beaver County,17,19.3,2.3
+Oklahoma,Beckham County,17.2,17,-0.2
+Oklahoma,Blaine County,21.8,17.2,-4.6
+Oklahoma,Bryan County,20.7,20.2,-0.5
+Oklahoma,Caddo County,22.3,22.9,0.6
+Oklahoma,Canadian County,22.3,23.8,1.5
+Oklahoma,Carter County,18,19.6,1.6
+Oklahoma,Cherokee County,23,23.6,0.6
+Oklahoma,Choctaw County,21.9,22.7,0.8
+Oklahoma,Cimarron County,13.3,14.7,1.4
+Oklahoma,Cleveland County,21.9,23.3,1.4
+Oklahoma,Coal County,24.3,25.6,1.3
+Oklahoma,Comanche County,16.2,16.7,0.5
+Oklahoma,Cotton County,23.2,23,-0.2
+Oklahoma,Craig County,18.5,21.3,2.8
+Oklahoma,Creek County,23.7,24.9,1.2
+Oklahoma,Custer County,17.4,18.7,1.3
+Oklahoma,Delaware County,26.8,25.9,-0.9
+Oklahoma,Dewey County,21.4,21.7,0.3
+Oklahoma,Ellis County,18.2,18.7,0.5
+Oklahoma,Garfield County,16.3,16.6,0.3
+Oklahoma,Garvin County,21.7,21.5,-0.2
+Oklahoma,Grady County,26,25.9,-0.1
+Oklahoma,Grant County,19.8,18.1,-1.7
+Oklahoma,Greer County,16.5,20.9,4.4
+Oklahoma,Harmon County,17.9,15.9,-2
+Oklahoma,Harper County,15.7,19.9,4.2
+Oklahoma,Haskell County,26.7,25.3,-1.4
+Oklahoma,Hughes County,24.5,23,-1.5
+Oklahoma,Jackson County,12.7,14.5,1.8
+Oklahoma,Jefferson County,23.7,26,2.3
+Oklahoma,Johnston County,23.1,24.3,1.2
+Oklahoma,Kay County,15.9,17.5,1.6
+Oklahoma,Kingfisher County,20.1,19,-1.1
+Oklahoma,Kiowa County,20.9,20.9,0
+Oklahoma,Latimer County,24.3,23.8,-0.5
+Oklahoma,Le Flore County,20.5,24.2,3.7
+Oklahoma,Lincoln County,29.3,29.1,-0.2
+Oklahoma,Logan County,27.6,28.5,0.9
+Oklahoma,Love County,22.5,23.1,0.6
+Oklahoma,McClain County,27.5,26.7,-0.8
+Oklahoma,McCurtain County,20.7,21.8,1.1
+Oklahoma,McIntosh County,25.4,27,1.6
+Oklahoma,Major County,20.6,23,2.4
+Oklahoma,Marshall County,20.3,23.8,3.5
+Oklahoma,Mayes County,25.1,23.3,-1.8
+Oklahoma,Murray County,19.9,20.5,0.6
+Oklahoma,Muskogee County,20.2,20.5,0.3
+Oklahoma,Noble County,22.3,20.5,-1.8
+Oklahoma,Nowata County,23.1,26.3,3.2
+Oklahoma,Okfuskee County,24.8,27.5,2.7
+Oklahoma,Oklahoma County,19.9,21.2,1.3
+Oklahoma,Okmulgee County,26.4,26.1,-0.3
+Oklahoma,Osage County,22.2,24.4,2.2
+Oklahoma,Ottawa County,20.5,20,-0.5
+Oklahoma,Pawnee County,27.1,26.7,-0.4
+Oklahoma,Payne County,17.4,17.5,0.1
+Oklahoma,Pittsburg County,20.4,20.9,0.5
+Oklahoma,Pontotoc County,17,17.3,0.3
+Oklahoma,Pottawatomie County,23.7,23.7,0
+Oklahoma,Pushmataha County,24.3,27,2.7
+Oklahoma,Roger Mills County,23.3,20.7,-2.6
+Oklahoma,Rogers County,24.5,24.2,-0.3
+Oklahoma,Seminole County,22.4,23.9,1.5
+Oklahoma,Sequoyah County,25.3,25.4,0.1
+Oklahoma,Stephens County,19.4,20.4,1
+Oklahoma,Texas County,15,15.9,0.9
+Oklahoma,Tillman County,23.1,19.4,-3.7
+Oklahoma,Tulsa County,19.1,19.7,0.6
+Oklahoma,Wagoner County,25.3,26.1,0.8
+Oklahoma,Washington County,18,17.7,-0.3
+Oklahoma,Washita County,21,21.6,0.6
+Oklahoma,Woods County,12.4,14,1.6
+Oklahoma,Woodward County,18.3,17.4,-0.9
+Oregon,Baker County,14.8,16,1.2
+Oregon,Benton County,17.9,19.6,1.7
+Oregon,Clackamas County,26,28.7,2.7
+Oregon,Clatsop County,17.5,19.1,1.6
+Oregon,Columbia County,31.1,33.3,2.2
+Oregon,Coos County,18.9,19.1,0.2
+Oregon,Crook County,20.6,23.4,2.8
+Oregon,Curry County,14.1,14.4,0.3
+Oregon,Deschutes County,18.6,18.5,-0.1
+Oregon,Douglas County,20,19.5,-0.5
+Oregon,Gilliam County,16,17.5,1.5
+Oregon,Grant County,16.3,17.2,0.9
+Oregon,Harney County,11.1,15.8,4.7
+Oregon,Hood River County,17.1,17.4,0.3
+Oregon,Jackson County,18.4,18.7,0.3
+Oregon,Jefferson County,21,20.4,-0.6
+Oregon,Josephine County,19.4,20.1,0.7
+Oregon,Klamath County,17.1,16.2,-0.9
+Oregon,Lake County,11.6,14.6,3
+Oregon,Lane County,19.6,20.2,0.6
+Oregon,Lincoln County,18.7,18.9,0.2
+Oregon,Linn County,22.2,22.3,0.1
+Oregon,Malheur County,18.3,18.9,0.6
+Oregon,Marion County,22.6,23.2,0.6
+Oregon,Morrow County,21.8,20.4,-1.4
+Oregon,Multnomah County,24.3,26.6,2.3
+Oregon,Polk County,24.1,24.6,0.5
+Oregon,Sherman County,18.2,22.3,4.1
+Oregon,Tillamook County,18.2,18.9,0.7
+Oregon,Umatilla County,16.4,18,1.6
+Oregon,Union County,16.1,18,1.9
+Oregon,Wallowa County,16.2,16.1,-0.1
+Oregon,Wasco County,17.1,17.6,0.5
+Oregon,Washington County,24.1,24.9,0.8
+Oregon,Wheeler County,19.1,20.2,1.1
+Oregon,Yamhill County,24,25.9,1.9
+Pennsylvania,Adams County,27.2,27.6,0.4
+Pennsylvania,Allegheny County,25.2,26.7,1.5
+Pennsylvania,Armstrong County,27.7,29.7,2
+Pennsylvania,Beaver County,24.8,25.6,0.8
+Pennsylvania,Bedford County,26.9,27.2,0.3
+Pennsylvania,Berks County,23.6,24.9,1.3
+Pennsylvania,Blair County,19.6,20.1,0.5
+Pennsylvania,Bradford County,22.7,22.5,-0.2
+Pennsylvania,Bucks County,28.1,29.8,1.7
+Pennsylvania,Butler County,26.3,26.8,0.5
+Pennsylvania,Cambria County,22.3,24.1,1.8
+Pennsylvania,Cameron County,15.3,17.6,2.3
+Pennsylvania,Carbon County,31.1,31.9,0.8
+Pennsylvania,Centre County,19.3,20.4,1.1
+Pennsylvania,Chester County,27.9,27.9,0
+Pennsylvania,Clarion County,21.1,22.5,1.4
+Pennsylvania,Clearfield County,24.2,24.4,0.2
+Pennsylvania,Clinton County,23.6,22.6,-1
+Pennsylvania,Columbia County,20.9,22.3,1.4
+Pennsylvania,Crawford County,21,22,1
+Pennsylvania,Cumberland County,21,22.1,1.1
+Pennsylvania,Dauphin County,20.7,22,1.3
+Pennsylvania,Delaware County,27.4,29,1.6
+Pennsylvania,Elk County,18,18.8,0.8
+Pennsylvania,Erie County,18.6,19.3,0.7
+Pennsylvania,Fayette County,23.8,26.3,2.5
+Pennsylvania,Forest County,27.4,26.9,-0.5
+Pennsylvania,Franklin County,23.3,24.4,1.1
+Pennsylvania,Fulton County,31.8,32.3,0.5
+Pennsylvania,Greene County,26.8,26.8,0
+Pennsylvania,Huntingdon County,27.8,29.5,1.7
+Pennsylvania,Indiana County,23.1,23,-0.1
+Pennsylvania,Jefferson County,20.3,23.1,2.8
+Pennsylvania,Juniata County,29.6,30.6,1
+Pennsylvania,Lackawanna County,19.7,20.9,1.2
+Pennsylvania,Lancaster County,21.9,23.1,1.2
+Pennsylvania,Lawrence County,21.9,22.9,1
+Pennsylvania,Lebanon County,22.5,23.1,0.6
+Pennsylvania,Lehigh County,23.5,24.7,1.2
+Pennsylvania,Luzerne County,21.8,22.1,0.3
+Pennsylvania,Lycoming County,19.3,20.2,0.9
+Pennsylvania,McKean County,18.7,21.1,2.4
+Pennsylvania,Mercer County,20.4,20.8,0.4
+Pennsylvania,Mifflin County,21.2,24.1,2.9
+Pennsylvania,Monroe County,39.6,38.6,-1
+Pennsylvania,Montgomery County,27.4,28.7,1.3
+Pennsylvania,Montour County,19,19,0
+Pennsylvania,Northampton County,27.5,27.6,0.1
+Pennsylvania,Northumberland County,23.3,23.3,0
+Pennsylvania,Perry County,31.5,32.6,1.1
+Pennsylvania,Philadelphia County,31.5,32.9,1.4
+Pennsylvania,Pike County,42.1,44.2,2.1
+Pennsylvania,Potter County,22.5,24.5,2
+Pennsylvania,Schuylkill County,25,25.7,0.7
+Pennsylvania,Snyder County,22.4,22.9,0.5
+Pennsylvania,Somerset County,22.8,24.2,1.4
+Pennsylvania,Sullivan County,27.9,31.5,3.6
+Pennsylvania,Susquehanna County,26.8,28,1.2
+Pennsylvania,Tioga County,22.6,23.9,1.3
+Pennsylvania,Union County,19.5,22.5,3
+Pennsylvania,Venango County,20.9,22.1,1.2
+Pennsylvania,Warren County,20.4,20.4,0
+Pennsylvania,Washington County,25.6,26.9,1.3
+Pennsylvania,Wayne County,26.8,29.6,2.8
+Pennsylvania,Westmoreland County,25.6,26.3,0.7
+Pennsylvania,Wyoming County,24.5,25.6,1.1
+Pennsylvania,York County,26.1,27.1,1
+Rhode Island,Bristol County,25.3,25.9,0.6
+Rhode Island,Kent County,23.8,25.3,1.5
+Rhode Island,Newport County,20.5,22.5,2
+Rhode Island,Providence County,22.5,24.4,1.9
+Rhode Island,Washington County,24.2,25.9,1.7
+South Carolina,Abbeville County,25.1,25.8,0.7
+South Carolina,Aiken County,24.7,24.9,0.2
+South Carolina,Allendale County,25.3,28.3,3
+South Carolina,Anderson County,22.6,22.9,0.3
+South Carolina,Bamberg County,27.6,24.4,-3.2
+South Carolina,Barnwell County,23.6,27.6,4
+South Carolina,Beaufort County,20.1,22.4,2.3
+South Carolina,Berkeley County,26.3,27.3,1
+South Carolina,Calhoun County,27.4,28.1,0.7
+South Carolina,Charleston County,22.3,23.2,0.9
+South Carolina,Cherokee County,22.1,22.1,0
+South Carolina,Chester County,26.7,28.8,2.1
+South Carolina,Chesterfield County,25.1,23.9,-1.2
+South Carolina,Clarendon County,26.6,29.6,3
+South Carolina,Colleton County,32.7,33.1,0.4
+South Carolina,Darlington County,22.2,23,0.8
+South Carolina,Dillon County,21.4,23.7,2.3
+South Carolina,Dorchester County,27.9,28.8,0.9
+South Carolina,Edgefield County,26.2,25.2,-1
+South Carolina,Fairfield County,27.3,31.1,3.8
+South Carolina,Florence County,21.6,23.1,1.5
+South Carolina,Georgetown County,23.7,25.4,1.7
+South Carolina,Greenville County,21.3,22.2,0.9
+South Carolina,Greenwood County,20.5,22.2,1.7
+South Carolina,Hampton County,30.2,31.7,1.5
+South Carolina,Horry County,21,22,1
+South Carolina,Jasper County,29.3,30.8,1.5
+South Carolina,Kershaw County,27.6,26.8,-0.8
+South Carolina,Lancaster County,27.8,29.1,1.3
+South Carolina,Laurens County,24,24.3,0.3
+South Carolina,Lee County,26.7,26.8,0.1
+South Carolina,Lexington County,24.6,25.5,0.9
+South Carolina,McCormick County,27,26.6,-0.4
+South Carolina,Marion County,25.7,30.3,4.6
+South Carolina,Marlboro County,21.2,25.2,4
+South Carolina,Newberry County,24,24.6,0.6
+South Carolina,Oconee County,24.9,24.6,-0.3
+South Carolina,Orangeburg County,22.7,28,5.3
+South Carolina,Pickens County,22.9,24.8,1.9
+South Carolina,Richland County,21.5,21.4,-0.1
+South Carolina,Saluda County,28.3,29.8,1.5
+South Carolina,Spartanburg County,22,22.7,0.7
+South Carolina,Sumter County,21.1,22.3,1.2
+South Carolina,Union County,25,27.5,2.5
+South Carolina,Williamsburg County,24.8,30,5.2
+South Carolina,York County,24.1,26.9,2.8
+South Dakota,Aurora County,18.3,16.4,-1.9
+South Dakota,Beadle County,12.4,13.9,1.5
+South Dakota,Bennett County,22,17.4,-4.6
+South Dakota,Bon Homme County,17.8,19.6,1.8
+South Dakota,Brookings County,13.5,14.9,1.4
+South Dakota,Brown County,12.8,12.9,0.1
+South Dakota,Brule County,13.4,13.4,0
+South Dakota,Buffalo County,12.3,13,0.7
+South Dakota,Butte County,21.3,20.5,-0.8
+South Dakota,Campbell County,17.5,17.1,-0.4
+South Dakota,Charles Mix County,12.3,10.3,-2
+South Dakota,Clark County,19.7,20.7,1
+South Dakota,Clay County,16.4,15,-1.4
+South Dakota,Codington County,14.1,14.4,0.3
+South Dakota,Corson County,20.6,21,0.4
+South Dakota,Custer County,25.1,26.1,1
+South Dakota,Davison County,13.2,12.7,-0.5
+South Dakota,Day County,15.1,18.7,3.6
+South Dakota,Deuel County,19.3,19.5,0.2
+South Dakota,Dewey County,12.5,17.3,4.8
+South Dakota,Douglas County,13.3,13.6,0.3
+South Dakota,Edmunds County,19.8,16.8,-3
+South Dakota,Fall River County,15.4,15.8,0.4
+South Dakota,Faulk County,13.3,12.2,-1.1
+South Dakota,Grant County,15.1,12.3,-2.8
+South Dakota,Gregory County,14.3,14.2,-0.1
+South Dakota,Haakon County,13.2,11.5,-1.7
+South Dakota,Hamlin County,18.9,19.9,1
+South Dakota,Hand County,14.1,13.3,-0.8
+South Dakota,Hanson County,18.6,19.5,0.9
+South Dakota,Harding County,15.4,22.7,7.3
+South Dakota,Hughes County,12.1,10.8,-1.3
+South Dakota,Hutchinson County,15.8,16.6,0.8
+South Dakota,Hyde County,15.9,15.7,-0.2
+South Dakota,Jackson County,17.3,12.6,-4.7
+South Dakota,Jerauld County,15,15.5,0.5
+South Dakota,Jones County,11.7,14.9,3.2
+South Dakota,Kingsbury County,19.7,20.6,0.9
+South Dakota,Lake County,16.5,16,-0.5
+South Dakota,Lawrence County,18.2,17.1,-1.1
+South Dakota,Lincoln County,19.2,19.6,0.4
+South Dakota,Lyman County,12.3,11.8,-0.5
+South Dakota,McCook County,23.7,24.7,1
+South Dakota,McPherson County,14,18.4,4.4
+South Dakota,Marshall County,19,17.1,-1.9
+South Dakota,Meade County,20.3,20.5,0.2
+South Dakota,Mellette County,24.7,21.9,-2.8
+South Dakota,Miner County,17.5,21.3,3.8
+South Dakota,Minnehaha County,16.7,17.8,1.1
+South Dakota,Moody County,18.8,19.8,1
+South Dakota,Oglala Lakota County,16.1,0,-16.1
+South Dakota,Pennington County,17.6,17.3,-0.3
+South Dakota,Perkins County,12.3,13.3,1
+South Dakota,Potter County,11.5,14.3,2.8
+South Dakota,Roberts County,17.6,18.6,1
+South Dakota,Sanborn County,20.8,21.5,0.7
+South Dakota,Spink County,13.8,15.9,2.1
+South Dakota,Stanley County,14.8,16.4,1.6
+South Dakota,Sully County,17.2,14.6,-2.6
+South Dakota,Todd County,16.9,18.1,1.2
+South Dakota,Tripp County,12.2,15.4,3.2
+South Dakota,Turner County,25.9,25.4,-0.5
+South Dakota,Union County,17.5,19.6,2.1
+South Dakota,Walworth County,15.5,15.2,-0.3
+South Dakota,Yankton County,14.1,15.1,1
+South Dakota,Ziebach County,20.3,22.8,2.5
+Tennessee,Anderson County,23,23.3,0.3
+Tennessee,Bedford County,25,25.1,0.1
+Tennessee,Benton County,23.5,24.4,0.9
+Tennessee,Bledsoe County,33.3,30.4,-2.9
+Tennessee,Blount County,23.4,24.8,1.4
+Tennessee,Bradley County,20.4,21.1,0.7
+Tennessee,Campbell County,26.4,27.1,0.7
+Tennessee,Cannon County,34.3,33.4,-0.9
+Tennessee,Carroll County,24.1,23.9,-0.2
+Tennessee,Carter County,22.2,23.8,1.6
+Tennessee,Cheatham County,32.7,32,-0.7
+Tennessee,Chester County,24.8,24.8,0
+Tennessee,Claiborne County,25,24.5,-0.5
+Tennessee,Clay County,29.8,27.9,-1.9
+Tennessee,Cocke County,26.9,28.4,1.5
+Tennessee,Coffee County,22.9,23.1,0.2
+Tennessee,Crockett County,22,23.2,1.2
+Tennessee,Cumberland County,24,22.2,-1.8
+Tennessee,Davidson County,23.1,24.5,1.4
+Tennessee,Decatur County,24.2,26.9,2.7
+Tennessee,DeKalb County,24.7,27.9,3.2
+Tennessee,Dickson County,29.9,31.7,1.8
+Tennessee,Dyer County,17.9,20.2,2.3
+Tennessee,Fayette County,33,33.1,0.1
+Tennessee,Fentress County,26.1,23.2,-2.9
+Tennessee,Franklin County,23,22.4,-0.6
+Tennessee,Gibson County,23,23.2,0.2
+Tennessee,Giles County,26.4,25.7,-0.7
+Tennessee,Grainger County,31.8,32.9,1.1
+Tennessee,Greene County,23.2,22.8,-0.4
+Tennessee,Grundy County,25.5,28.1,2.6
+Tennessee,Hamblen County,20.6,22.1,1.5
+Tennessee,Hamilton County,21.2,21.4,0.2
+Tennessee,Hancock County,30.3,34.3,4
+Tennessee,Hardeman County,28.6,28.7,0.1
+Tennessee,Hardin County,21.3,24.4,3.1
+Tennessee,Hawkins County,24,25.3,1.3
+Tennessee,Haywood County,22.4,22.8,0.4
+Tennessee,Henderson County,24.1,26.5,2.4
+Tennessee,Henry County,20.1,20.9,0.8
+Tennessee,Hickman County,37.6,36.3,-1.3
+Tennessee,Houston County,27.8,34.4,6.6
+Tennessee,Humphreys County,25.6,27.5,1.9
+Tennessee,Jackson County,31.1,32,0.9
+Tennessee,Jefferson County,24.7,25.8,1.1
+Tennessee,Johnson County,25.8,24.8,-1
+Tennessee,Knox County,20.9,21.9,1
+Tennessee,Lake County,20.8,18.7,-2.1
+Tennessee,Lauderdale County,22.1,23.7,1.6
+Tennessee,Lawrence County,26.2,27.7,1.5
+Tennessee,Lewis County,27.5,26.2,-1.3
+Tennessee,Lincoln County,26.2,27.7,1.5
+Tennessee,Loudon County,23.2,23.4,0.2
+Tennessee,McMinn County,22,23.8,1.8
+Tennessee,McNairy County,22.3,26.9,4.6
+Tennessee,Macon County,30.5,34.6,4.1
+Tennessee,Madison County,19.6,18.6,-1
+Tennessee,Marion County,27.4,28.1,0.7
+Tennessee,Marshall County,28.2,30.1,1.9
+Tennessee,Maury County,26.6,29.3,2.7
+Tennessee,Meigs County,29.4,31,1.6
+Tennessee,Monroe County,25.8,28,2.2
+Tennessee,Montgomery County,24.4,24.9,0.5
+Tennessee,Moore County,25.9,25.2,-0.7
+Tennessee,Morgan County,32.1,30.2,-1.9
+Tennessee,Obion County,20.3,21.9,1.6
+Tennessee,Overton County,28.4,27.5,-0.9
+Tennessee,Perry County,26.5,29.7,3.2
+Tennessee,Pickett County,29.4,25.8,-3.6
+Tennessee,Polk County,30,29.8,-0.2
+Tennessee,Putnam County,20.7,22.9,2.2
+Tennessee,Rhea County,25.8,22.7,-3.1
+Tennessee,Roane County,26.1,27.4,1.3
+Tennessee,Robertson County,28.5,29.3,0.8
+Tennessee,Rutherford County,26.1,28.5,2.4
+Tennessee,Scott County,26.4,28.3,1.9
+Tennessee,Sequatchie County,28.4,32.4,4
+Tennessee,Sevier County,24.7,24.8,0.1
+Tennessee,Shelby County,22.4,22.9,0.5
+Tennessee,Smith County,27.8,28.6,0.8
+Tennessee,Stewart County,32,34.7,2.7
+Tennessee,Sullivan County,20.3,21.4,1.1
+Tennessee,Sumner County,27.6,27.8,0.2
+Tennessee,Tipton County,31.8,33,1.2
+Tennessee,Trousdale County,31.9,29.2,-2.7
+Tennessee,Unicoi County,23.1,20.4,-2.7
+Tennessee,Union County,32.4,33.6,1.2
+Tennessee,Van Buren County,21.8,27.5,5.7
+Tennessee,Warren County,23.9,24.5,0.6
+Tennessee,Washington County,20,20.8,0.8
+Tennessee,Wayne County,27.1,29.1,2
+Tennessee,Weakley County,21,20,-1
+Tennessee,White County,23.3,24,0.7
+Tennessee,Williamson County,27,27.3,0.3
+Tennessee,Wilson County,27.8,30,2.2
+Texas,Anderson County,23.8,23.7,-0.1
+Texas,Andrews County,21.7,19.8,-1.9
+Texas,Angelina County,20.8,18.7,-2.1
+Texas,Aransas County,18.6,20.8,2.2
+Texas,Archer County,19.3,20.4,1.1
+Texas,Armstrong County,26.5,27.4,0.9
+Texas,Atascosa County,32.7,30.8,-1.9
+Texas,Austin County,28.1,31.1,3
+Texas,Bailey County,14.1,16.5,2.4
+Texas,Bandera County,32.8,37,4.2
+Texas,Bastrop County,33.9,34.4,0.5
+Texas,Baylor County,17.6,10.6,-7
+Texas,Bee County,20.3,21.9,1.6
+Texas,Bell County,18.7,20.6,1.9
+Texas,Bexar County,24.1,25,0.9
+Texas,Blanco County,26.7,27.8,1.1
+Texas,Borden County,21.6,28.1,6.5
+Texas,Bosque County,27.2,29.6,2.4
+Texas,Bowie County,17.5,17.9,0.4
+Texas,Brazoria County,28.7,29.8,1.1
+Texas,Brazos County,17.3,17,-0.3
+Texas,Brewster County,13.5,13.8,0.3
+Texas,Briscoe County,22.1,20.9,-1.2
+Texas,Brooks County,18.6,21.6,3
+Texas,Brown County,16.6,17.3,0.7
+Texas,Burleson County,28.8,27.4,-1.4
+Texas,Burnet County,26.8,26.2,-0.6
+Texas,Caldwell County,29.8,30.6,0.8
+Texas,Calhoun County,19.4,20.9,1.5
+Texas,Callahan County,23.1,22.9,-0.2
+Texas,Cameron County,19.9,20.2,0.3
+Texas,Camp County,21.7,26,4.3
+Texas,Carson County,20.8,19.7,-1.1
+Texas,Cass County,28.4,24,-4.4
+Texas,Castro County,18.1,16.1,-2
+Texas,Chambers County,29.9,27.8,-2.1
+Texas,Cherokee County,20.6,24.4,3.8
+Texas,Childress County,10.7,15.7,5
+Texas,Clay County,24,23.9,-0.1
+Texas,Cochran County,21,23.4,2.4
+Texas,Coke County,20.6,23,2.4
+Texas,Coleman County,24.1,24.5,0.4
+Texas,Collin County,27.8,28.7,0.9
+Texas,Collingsworth County,14,15.4,1.4
+Texas,Colorado County,26.3,20.5,-5.8
+Texas,Comal County,28.7,30.6,1.9
+Texas,Comanche County,22.5,25.2,2.7
+Texas,Concho County,20.3,22.5,2.2
+Texas,Cooke County,25.6,25.5,-0.1
+Texas,Coryell County,19.9,22,2.1
+Texas,Cottle County,17.1,15.2,-1.9
+Texas,Crane County,22.6,28.5,5.9
+Texas,Crockett County,18.8,22.3,3.5
+Texas,Crosby County,18.9,21.6,2.7
+Texas,Culberson County,8.1,12.5,4.4
+Texas,Dallam County,12.3,13.5,1.2
+Texas,Dallas County,25.7,27.2,1.5
+Texas,Dawson County,12.2,16.6,4.4
+Texas,Deaf Smith County,16.9,13.1,-3.8
+Texas,Delta County,30.9,31.5,0.6
+Texas,Denton County,27.5,28.9,1.4
+Texas,DeWitt County,22.9,23.8,0.9
+Texas,Dickens County,15.1,19.1,4
+Texas,Dimmit County,22.7,15.6,-7.1
+Texas,Donley County,17.1,23.6,6.5
+Texas,Duval County,26.2,27.6,1.4
+Texas,Eastland County,19,18.6,-0.4
+Texas,Ector County,19.4,22,2.6
+Texas,Edwards County,23.6,16.3,-7.3
+Texas,Ellis County,28.6,29.3,0.7
+Texas,El Paso County,22.4,23.4,1
+Texas,Erath County,18.3,19.9,1.6
+Texas,Falls County,25.8,26.7,0.9
+Texas,Fannin County,30.5,29.7,-0.8
+Texas,Fayette County,22.3,22.8,0.5
+Texas,Fisher County,21.2,21.3,0.1
+Texas,Floyd County,17.6,14.9,-2.7
+Texas,Foard County,12.4,20.8,8.4
+Texas,Fort Bend County,30.6,33,2.4
+Texas,Franklin County,23.8,23.9,0.1
+Texas,Freestone County,23.5,25.7,2.2
+Texas,Frio County,23,15.8,-7.2
+Texas,Gaines County,18.6,19,0.4
+Texas,Galveston County,25.5,28,2.5
+Texas,Garza County,14,17.4,3.4
+Texas,Gillespie County,20,20.7,0.7
+Texas,Glasscock County,22.7,20.6,-2.1
+Texas,Goliad County,30.8,29.9,-0.9
+Texas,Gonzales County,23.2,22.3,-0.9
+Texas,Gray County,17.3,19,1.7
+Texas,Grayson County,23.6,24.9,1.3
+Texas,Gregg County,20.4,20.4,0
+Texas,Grimes County,30,27.1,-2.9
+Texas,Guadalupe County,24.8,26.7,1.9
+Texas,Hale County,14.9,17.7,2.8
+Texas,Hall County,16.1,15,-1.1
+Texas,Hamilton County,18.9,19.1,0.2
+Texas,Hansford County,19.4,14.8,-4.6
+Texas,Hardeman County,17.5,15.9,-1.6
+Texas,Hardin County,27.3,28.3,1
+Texas,Harris County,27.5,28.9,1.4
+Texas,Harrison County,23.4,20.9,-2.5
+Texas,Hartley County,11.6,11.9,0.3
+Texas,Haskell County,20.9,16.1,-4.8
+Texas,Hays County,29.3,30.1,0.8
+Texas,Hemphill County,15.7,16,0.3
+Texas,Henderson County,31.6,30.6,-1
+Texas,Hidalgo County,21,21.9,0.9
+Texas,Hill County,30.8,28.5,-2.3
+Texas,Hockley County,19.7,19.6,-0.1
+Texas,Hood County,32.1,32.5,0.4
+Texas,Hopkins County,20.1,23.3,3.2
+Texas,Houston County,26,26.4,0.4
+Texas,Howard County,16.8,18.8,2
+Texas,Hudspeth County,24.4,29,4.6
+Texas,Hunt County,28.7,30.8,2.1
+Texas,Hutchinson County,18,18.3,0.3
+Texas,Irion County,27.9,22.3,-5.6
+Texas,Jack County,21.1,26.5,5.4
+Texas,Jackson County,24.4,25.7,1.3
+Texas,Jasper County,24.5,29.9,5.4
+Texas,Jeff Davis County,13.5,18.5,5
+Texas,Jefferson County,19,19.7,0.7
+Texas,Jim Hogg County,24,33,9
+Texas,Jim Wells County,22.7,28.6,5.9
+Texas,Johnson County,29.1,30.3,1.2
+Texas,Jones County,25.8,20.2,-5.6
+Texas,Karnes County,25.6,21.7,-3.9
+Texas,Kaufman County,32,34.7,2.7
+Texas,Kendall County,25.9,31.2,5.3
+Texas,Kenedy County,16.3,16.3,0
+Texas,Kent County,14.6,7.7,-6.9
+Texas,Kerr County,18.9,20,1.1
+Texas,Kimble County,17,20.6,3.6
+Texas,King County,4.5,12.4,7.9
+Texas,Kinney County,17.6,18.7,1.1
+Texas,Kleberg County,18,17.6,-0.4
+Texas,Knox County,14.2,17.5,3.3
+Texas,Lamar County,19.1,20.3,1.2
+Texas,Lamb County,16.2,17.2,1
+Texas,Lampasas County,27.4,27.4,0
+Texas,La Salle County,27.5,19.5,-8
+Texas,Lavaca County,25.1,28,2.9
+Texas,Lee County,25.6,25.7,0.1
+Texas,Leon County,24.7,28.3,3.6
+Texas,Liberty County,34.3,36.9,2.6
+Texas,Limestone County,22.3,21.3,-1
+Texas,Lipscomb County,19.5,20.2,0.7
+Texas,Live Oak County,25.7,33.5,7.8
+Texas,Llano County,26,24.4,-1.6
+Texas,Loving County,19,22.4,3.4
+Texas,Lubbock County,16.3,17.3,1
+Texas,Lynn County,16.8,19.1,2.3
+Texas,McCulloch County,12.8,15.9,3.1
+Texas,McLennan County,18.5,19.4,0.9
+Texas,McMullen County,20.8,21.6,0.8
+Texas,Madison County,24.2,23.4,-0.8
+Texas,Marion County,26.8,31.4,4.6
+Texas,Martin County,18.5,17.9,-0.6
+Texas,Mason County,13.8,20.2,6.4
+Texas,Matagorda County,21.6,21.7,0.1
+Texas,Maverick County,19.5,22,2.5
+Texas,Medina County,29,31.5,2.5
+Texas,Menard County,21.9,29.3,7.4
+Texas,Midland County,17.3,19.5,2.2
+Texas,Milam County,26.2,27.2,1
+Texas,Mills County,18.3,16.5,-1.8
+Texas,Mitchell County,16.7,20.2,3.5
+Texas,Montague County,26.5,24.3,-2.2
+Texas,Montgomery County,31.6,32.7,1.1
+Texas,Moore County,16.1,16.9,0.8
+Texas,Morris County,20.2,23.8,3.6
+Texas,Motley County,24.1,16.4,-7.7
+Texas,Nacogdoches County,19.1,20.4,1.3
+Texas,Navarro County,23.3,25.3,2
+Texas,Newton County,30.1,37.3,7.2
+Texas,Nolan County,17.4,15.5,-1.9
+Texas,Nueces County,19.2,19.6,0.4
+Texas,Ochiltree County,17.5,18.5,1
+Texas,Oldham County,16.6,19,2.4
+Texas,Orange County,22.3,23.9,1.6
+Texas,Palo Pinto County,22.9,23.5,0.6
+Texas,Panola County,25.6,25.9,0.3
+Texas,Parker County,29.8,31.7,1.9
+Texas,Parmer County,14.7,14.2,-0.5
+Texas,Pecos County,16.3,19.2,2.9
+Texas,Polk County,27.3,29.1,1.8
+Texas,Potter County,17.1,17.8,0.7
+Texas,Presidio County,18.6,18.3,-0.3
+Texas,Rains County,34.6,34.9,0.3
+Texas,Randall County,17.8,19.1,1.3
+Texas,Reagan County,16.7,16.6,-0.1
+Texas,Real County,20.2,16.3,-3.9
+Texas,Red River County,26.9,30.7,3.8
+Texas,Reeves County,19.3,16.8,-2.5
+Texas,Refugio County,22.9,22.7,-0.2
+Texas,Roberts County,15.5,22.2,6.7
+Texas,Robertson County,24.8,24.4,-0.4
+Texas,Rockwall County,31.6,33.4,1.8
+Texas,Runnels County,18.3,21.9,3.6
+Texas,Rusk County,23.8,24.3,0.5
+Texas,Sabine County,26.1,22.2,-3.9
+Texas,San Augustine County,28,26.7,-1.3
+Texas,San Jacinto County,37.8,41.3,3.5
+Texas,San Patricio County,20.7,23.6,2.9
+Texas,San Saba County,20.2,25.8,5.6
+Texas,Schleicher County,17.9,29,11.1
+Texas,Scurry County,15.6,16.6,1
+Texas,Shackelford County,16.9,20.7,3.8
+Texas,Shelby County,21.6,26.3,4.7
+Texas,Sherman County,16.4,20.1,3.7
+Texas,Smith County,21.1,23.8,2.7
+Texas,Somervell County,27.4,28.3,0.9
+Texas,Starr County,21.2,23.1,1.9
+Texas,Stephens County,14.1,19.5,5.4
+Texas,Sterling County,20.6,21,0.4
+Texas,Stonewall County,17.3,17.7,0.4
+Texas,Sutton County,11.9,19.7,7.8
+Texas,Swisher County,17.2,19.7,2.5
+Texas,Tarrant County,25.7,27,1.3
+Texas,Taylor County,15.7,16.9,1.2
+Texas,Terrell County,15.6,30,14.4
+Texas,Terry County,21.3,20.1,-1.2
+Texas,Throckmorton County,22.5,22.2,-0.3
+Texas,Titus County,17.5,18.8,1.3
+Texas,Tom Green County,17.3,17.8,0.5
+Texas,Travis County,23.8,25.3,1.5
+Texas,Trinity County,31.8,33.2,1.4
+Texas,Tyler County,30.7,35.7,5
+Texas,Upshur County,27.1,27.8,0.7
+Texas,Upton County,19.1,20.9,1.8
+Texas,Uvalde County,18.3,18.5,0.2
+Texas,Val Verde County,19,19,0
+Texas,Van Zandt County,34.9,34.4,-0.5
+Texas,Victoria County,20.9,20,-0.9
+Texas,Walker County,22.3,25.8,3.5
+Texas,Waller County,31,30,-1
+Texas,Ward County,20.1,21.7,1.6
+Texas,Washington County,20,21.5,1.5
+Texas,Webb County,21,21.7,0.7
+Texas,Wharton County,24.3,23,-1.3
+Texas,Wheeler County,18.5,18.4,-0.1
+Texas,Wichita County,15.8,15.4,-0.4
+Texas,Wilbarger County,12.5,11.5,-1
+Texas,Willacy County,18.5,22.7,4.2
+Texas,Williamson County,26,27.9,1.9
+Texas,Wilson County,32.5,34.5,2
+Texas,Winkler County,21.3,19.2,-2.1
+Texas,Wise County,30.4,32.1,1.7
+Texas,Wood County,29.7,30.2,0.5
+Texas,Yoakum County,18.1,16.2,-1.9
+Texas,Young County,15.9,15.3,-0.6
+Texas,Zapata County,16.4,18.2,1.8
+Texas,Zavala County,15.5,13.7,-1.8
+Utah,Beaver County,13.3,16,2.7
+Utah,Box Elder County,22,23.5,1.5
+Utah,Cache County,16.4,17.3,0.9
+Utah,Carbon County,17.3,17.7,0.4
+Utah,Daggett County,14.8,18.6,3.8
+Utah,Davis County,22.7,22.5,-0.2
+Utah,Duchesne County,20.8,20.6,-0.2
+Utah,Emery County,21,19.8,-1.2
+Utah,Garfield County,14.1,14,-0.1
+Utah,Grand County,13.4,15.6,2.2
+Utah,Iron County,15.8,17.4,1.6
+Utah,Juab County,25.7,22.7,-3
+Utah,Kane County,18.7,12.5,-6.2
+Utah,Millard County,16,17.5,1.5
+Utah,Morgan County,26.1,27.7,1.6
+Utah,Piute County,28.5,24.5,-4
+Utah,Rich County,19.9,21.6,1.7
+Utah,Salt Lake County,21.8,22.1,0.3
+Utah,San Juan County,20.1,20.6,0.5
+Utah,Sanpete County,19.2,21,1.8
+Utah,Sevier County,15.3,16.6,1.3
+Utah,Summit County,24.5,25,0.5
+Utah,Tooele County,28.4,27.8,-0.6
+Utah,Uintah County,19.9,19.1,-0.8
+Utah,Utah County,20.7,21.4,0.7
+Utah,Wasatch County,20.5,23.3,2.8
+Utah,Washington County,18.1,18.1,0
+Utah,Wayne County,12.8,16.3,3.5
+Utah,Weber County,22,22,0
+Vermont,Addison County,22.5,23.8,1.3
+Vermont,Bennington County,17.6,19.3,1.7
+Vermont,Caledonia County,21.5,26,4.5
+Vermont,Chittenden County,19.6,21.1,1.5
+Vermont,Essex County,25.1,26,0.9
+Vermont,Franklin County,26.6,25.3,-1.3
+Vermont,Grand Isle County,31.1,33.4,2.3
+Vermont,Lamoille County,24.4,25.4,1
+Vermont,Orange County,27,27,0
+Vermont,Orleans County,22.2,24.2,2
+Vermont,Rutland County,20,21.1,1.1
+Vermont,Washington County,21.3,22.9,1.6
+Vermont,Windham County,20.4,21.3,0.9
+Vermont,Windsor County,21.3,22.8,1.5
+Virginia,Accomack County,20,22,2
+Virginia,Albemarle County,21.8,21.9,0.1
+Virginia,Alleghany County,26.2,24.6,-1.6
+Virginia,Amelia County,36.2,38,1.8
+Virginia,Amherst County,22.7,24.1,1.4
+Virginia,Appomattox County,25,31.9,6.9
+Virginia,Arlington County,26.5,28.6,2.1
+Virginia,Augusta County,22.3,23.7,1.4
+Virginia,Bath County,31.4,24.5,-6.9
+Virginia,Bedford County,26.1,26.9,0.8
+Virginia,Bland County,27.9,32.8,4.9
+Virginia,Botetourt County,25.8,28.3,2.5
+Virginia,Brunswick County,31,29.2,-1.8
+Virginia,Buchanan County,29.3,27.7,-1.6
+Virginia,Buckingham County,32.2,35.5,3.3
+Virginia,Campbell County,22.3,25.3,3
+Virginia,Caroline County,37,35.6,-1.4
+Virginia,Carroll County,26.4,25.8,-0.6
+Virginia,Charles City County,32.4,32.7,0.3
+Virginia,Charlotte County,30.6,31.4,0.8
+Virginia,Chesterfield County,24.9,26.4,1.5
+Virginia,Clarke County,34.5,35.6,1.1
+Virginia,Craig County,38.5,37.6,-0.9
+Virginia,Culpeper County,35.3,39.7,4.4
+Virginia,Cumberland County,35.7,40.7,5
+Virginia,Dickenson County,33.3,29.6,-3.7
+Virginia,Dinwiddie County,28.4,29.2,0.8
+Virginia,Essex County,32.8,35,2.2
+Virginia,Fairfax County,31.3,32.1,0.8
+Virginia,Fauquier County,37.9,39.8,1.9
+Virginia,Floyd County,33.8,31.6,-2.2
+Virginia,Fluvanna County,30.1,33.4,3.3
+Virginia,Franklin County,27.7,30.2,2.5
+Virginia,Frederick County,30.4,31.1,0.7
+Virginia,Giles County,26.3,24.9,-1.4
+Virginia,Gloucester County,32.4,32.9,0.5
+Virginia,Goochland County,29.6,31.1,1.5
+Virginia,Grayson County,24.4,27.8,3.4
+Virginia,Greene County,28.6,31.2,2.6
+Virginia,Greensville County,24.5,22.9,-1.6
+Virginia,Halifax County,24.3,25.3,1
+Virginia,Hanover County,25.1,26.1,1
+Virginia,Henrico County,21.7,22.3,0.6
+Virginia,Henry County,22.6,23.6,1
+Virginia,Highland County,24.5,22.5,-2
+Virginia,Isle of Wight County,28.3,29.2,0.9
+Virginia,James City County,25.3,25,-0.3
+Virginia,King and Queen County,34,34.6,0.6
+Virginia,King George County,31.6,37.1,5.5
+Virginia,King William County,35.9,37.4,1.5
+Virginia,Lancaster County,21.9,26.7,4.8
+Virginia,Lee County,26.5,29.8,3.3
+Virginia,Loudoun County,33.4,33.7,0.3
+Virginia,Louisa County,35.5,36.3,0.8
+Virginia,Lunenburg County,30.5,29.1,-1.4
+Virginia,Madison County,31.9,30.5,-1.4
+Virginia,Mathews County,37.3,32.5,-4.8
+Virginia,Mecklenburg County,27.4,24.7,-2.7
+Virginia,Middlesex County,27,31,4
+Virginia,Montgomery County,18.2,18.7,0.5
+Virginia,Nelson County,31.6,31.2,-0.4
+Virginia,New Kent County,30.6,33.4,2.8
+Virginia,Northampton County,17.5,20.3,2.8
+Virginia,Northumberland County,24.7,27.5,2.8
+Virginia,Nottoway County,28.6,25.4,-3.2
+Virginia,Orange County,38.5,39.3,0.8
+Virginia,Page County,34.4,33.8,-0.6
+Virginia,Patrick County,24.9,28,3.1
+Virginia,Pittsylvania County,25.6,25.1,-0.5
+Virginia,Powhatan County,31.6,31.8,0.2
+Virginia,Prince Edward County,21.4,21.4,0
+Virginia,Prince George County,22.1,25.7,3.6
+Virginia,Prince William County,38.8,39.1,0.3
+Virginia,Pulaski County,22,22.8,0.8
+Virginia,Rappahannock County,35.1,37.9,2.8
+Virginia,Richmond County,29.8,24.7,-5.1
+Virginia,Roanoke County,20.2,22.4,2.2
+Virginia,Rockbridge County,20.9,23.5,2.6
+Virginia,Rockingham County,22.4,21.7,-0.7
+Virginia,Russell County,27.9,28.1,0.2
+Virginia,Scott County,27.9,28.2,0.3
+Virginia,Shenandoah County,28.6,31,2.4
+Virginia,Smyth County,22.3,22,-0.3
+Virginia,Southampton County,29.4,31,1.6
+Virginia,Spotsylvania County,39.1,38.2,-0.9
+Virginia,Stafford County,39.2,40.9,1.7
+Virginia,Surry County,34.2,39.3,5.1
+Virginia,Sussex County,25.1,33.7,8.6
+Virginia,Tazewell County,25.2,23.9,-1.3
+Virginia,Warren County,37.4,40.7,3.3
+Virginia,Washington County,22.6,24,1.4
+Virginia,Westmoreland County,37.9,41.5,3.6
+Virginia,Wise County,22,22.4,0.4
+Virginia,Wythe County,21.9,23.4,1.5
+Virginia,York County,22,21.9,-0.1
+Virginia,Alexandria city,29.6,31.8,2.2
+Virginia,Bristol city,16.7,21.1,4.4
+Virginia,Buena Vista city,16.6,18.3,1.7
+Virginia,Charlottesville city,15.5,17.8,2.3
+Virginia,Chesapeake city,24.1,25.9,1.8
+Virginia,Colonial Heights city,21.8,21.7,-0.1
+Virginia,Covington city,19.9,17.8,-2.1
+Virginia,Danville city,18.8,20.1,1.3
+Virginia,Emporia city,15.4,17.9,2.5
+Virginia,Fairfax city,31.4,31.2,-0.2
+Virginia,Falls Church city,25.8,28.9,3.1
+Virginia,Franklin city,25.1,26.2,1.1
+Virginia,Fredericksburg city,26.6,27.7,1.1
+Virginia,Galax city,24,18.6,-5.4
+Virginia,Hampton city,22.1,22.4,0.3
+Virginia,Harrisonburg city,15.6,15.7,0.1
+Virginia,Hopewell city,22.3,24,1.7
+Virginia,Lexington city,13.8,16.7,2.9
+Virginia,Lynchburg city,16.3,17.4,1.1
+Virginia,Manassas city,31.7,34.1,2.4
+Virginia,Manassas Park city,39.6,37.3,-2.3
+Virginia,Martinsville city,17.2,19.9,2.7
+Virginia,Newport News city,21.6,23,1.4
+Virginia,Norfolk city,21.5,21.2,-0.3
+Virginia,Norton city,15.4,14.3,-1.1
+Virginia,Petersburg city,21.6,22.5,0.9
+Virginia,Poquoson city,22.5,24.6,2.1
+Virginia,Portsmouth city,23.5,24.1,0.6
+Virginia,Radford city,16.9,19.1,2.2
+Virginia,Richmond city,21.4,21.9,0.5
+Virginia,Roanoke city,18.5,20.8,2.3
+Virginia,Salem city,17.9,19.6,1.7
+Virginia,Staunton city,20.9,20,-0.9
+Virginia,Suffolk city,27.7,28.4,0.7
+Virginia,Virginia Beach city,22.7,23.7,1
+Virginia,Waynesboro city,19.3,21.5,2.2
+Virginia,Williamsburg city,19.5,19.6,0.1
+Virginia,Winchester city,21.3,24.8,3.5
+Washington,Adams County,16.2,17.8,1.6
+Washington,Asotin County,16.5,15.4,-1.1
+Washington,Benton County,21.2,21.8,0.6
+Washington,Chelan County,17.8,18.6,0.8
+Washington,Clallam County,20.9,21.2,0.3
+Washington,Clark County,25,26.4,1.4
+Washington,Columbia County,21.7,22.6,0.9
+Washington,Cowlitz County,23.6,24.6,1
+Washington,Douglas County,18.9,18.2,-0.7
+Washington,Ferry County,24.3,22.2,-2.1
+Washington,Franklin County,21.2,21.5,0.3
+Washington,Garfield County,17.2,20,2.8
+Washington,Grant County,18.3,18.9,0.6
+Washington,Grays Harbor County,24.2,25.8,1.6
+Washington,Island County,26,27.8,1.8
+Washington,Jefferson County,24.6,23.5,-1.1
+Washington,King County,26.6,29.1,2.5
+Washington,Kitsap County,29.9,30.3,0.4
+Washington,Kittitas County,20,21.3,1.3
+Washington,Klickitat County,19.6,24.1,4.5
+Washington,Lewis County,26.1,27.1,1
+Washington,Lincoln County,21.3,24.3,3
+Washington,Mason County,31.8,32.1,0.3
+Washington,Okanogan County,18.1,17.2,-0.9
+Washington,Pacific County,21.5,19.3,-2.2
+Washington,Pend Oreille County,29.2,29.2,0
+Washington,Pierce County,28.4,31.2,2.8
+Washington,San Juan County,16.1,14.9,-1.2
+Washington,Skagit County,25.6,25.4,-0.2
+Washington,Skamania County,30.2,30.5,0.3
+Washington,Snohomish County,29.7,31.8,2.1
+Washington,Spokane County,21.1,21.5,0.4
+Washington,Stevens County,27.9,27.8,-0.1
+Washington,Thurston County,24.9,25.6,0.7
+Washington,Wahkiakum County,32,24.6,-7.4
+Washington,Walla Walla County,14.9,15.6,0.7
+Washington,Whatcom County,20.6,21,0.4
+Washington,Whitman County,14.5,15.3,0.8
+Washington,Yakima County,19,18.9,-0.1
+West Virginia,Barbour County,29.9,29.2,-0.7
+West Virginia,Berkeley County,30,31.2,1.2
+West Virginia,Boone County,29.1,32.9,3.8
+West Virginia,Braxton County,32.4,30.2,-2.2
+West Virginia,Brooke County,25.8,26.1,0.3
+West Virginia,Cabell County,19.9,20.5,0.6
+West Virginia,Calhoun County,39.6,33.1,-6.5
+West Virginia,Clay County,35.4,45.1,9.7
+West Virginia,Doddridge County,37.8,31.6,-6.2
+West Virginia,Fayette County,27.5,28.2,0.7
+West Virginia,Gilmer County,21.9,31.1,9.2
+West Virginia,Grant County,25.2,27.6,2.4
+West Virginia,Greenbrier County,24,25.2,1.2
+West Virginia,Hampshire County,35.8,37,1.2
+West Virginia,Hancock County,23.2,23.9,0.7
+West Virginia,Hardy County,25.1,24.9,-0.2
+West Virginia,Harrison County,22,22.3,0.3
+West Virginia,Jackson County,28.5,29.9,1.4
+West Virginia,Jefferson County,38.3,37.4,-0.9
+West Virginia,Kanawha County,21,20.9,-0.1
+West Virginia,Lewis County,26.9,28.2,1.3
+West Virginia,Lincoln County,36.5,35.4,-1.1
+West Virginia,Logan County,25.9,25.1,-0.8
+West Virginia,McDowell County,27.6,24.8,-2.8
+West Virginia,Marion County,25.4,23.8,-1.6
+West Virginia,Marshall County,23.5,25,1.5
+West Virginia,Mason County,26.3,32.2,5.9
+West Virginia,Mercer County,22.5,21.6,-0.9
+West Virginia,Mineral County,27.9,28.5,0.6
+West Virginia,Mingo County,28.4,28.8,0.4
+West Virginia,Monongalia County,20.9,20.9,0
+West Virginia,Monroe County,31.7,30.1,-1.6
+West Virginia,Morgan County,32.7,33,0.3
+West Virginia,Nicholas County,26.8,28,1.2
+West Virginia,Ohio County,19.4,19.7,0.3
+West Virginia,Pendleton County,30.9,32.1,1.2
+West Virginia,Pleasants County,24.5,27.2,2.7
+West Virginia,Pocahontas County,28.9,27.3,-1.6
+West Virginia,Preston County,31.3,30.2,-1.1
+West Virginia,Putnam County,25.6,24.7,-0.9
+West Virginia,Raleigh County,23,24.2,1.2
+West Virginia,Randolph County,20.2,21.4,1.2
+West Virginia,Ritchie County,26.1,25.6,-0.5
+West Virginia,Roane County,38.4,31.9,-6.5
+West Virginia,Summers County,31.7,29.7,-2
+West Virginia,Taylor County,31.2,30.2,-1
+West Virginia,Tucker County,28.2,28.9,0.7
+West Virginia,Tyler County,28.1,28,-0.1
+West Virginia,Upshur County,24.7,26.1,1.4
+West Virginia,Wayne County,25,26.7,1.7
+West Virginia,Webster County,31,26.7,-4.3
+West Virginia,Wetzel County,28.8,26.9,-1.9
+West Virginia,Wirt County,31.5,35,3.5
+West Virginia,Wood County,19.2,20.3,1.1
+West Virginia,Wyoming County,32.5,30.1,-2.4
+Wisconsin,Adams County,27.2,28.3,1.1
+Wisconsin,Ashland County,15.2,16.5,1.3
+Wisconsin,Barron County,19.3,19.6,0.3
+Wisconsin,Bayfield County,22.7,23.8,1.1
+Wisconsin,Brown County,18.2,19.1,0.9
+Wisconsin,Buffalo County,23.5,25.1,1.6
+Wisconsin,Burnett County,25.5,27,1.5
+Wisconsin,Calumet County,20,20.2,0.2
+Wisconsin,Chippewa County,21,21.9,0.9
+Wisconsin,Clark County,20.6,21.1,0.5
+Wisconsin,Columbia County,26.7,25.7,-1
+Wisconsin,Crawford County,23.6,22.6,-1
+Wisconsin,Dane County,20.2,21,0.8
+Wisconsin,Dodge County,22.4,23.1,0.7
+Wisconsin,Door County,19.1,18.2,-0.9
+Wisconsin,Douglas County,20.3,22.3,2
+Wisconsin,Dunn County,21.6,22.9,1.3
+Wisconsin,Eau Claire County,17.1,18.4,1.3
+Wisconsin,Florence County,18.2,19.7,1.5
+Wisconsin,Fond du Lac County,19.5,20.3,0.8
+Wisconsin,Forest County,20.8,20.3,-0.5
+Wisconsin,Grant County,21.3,20.3,-1
+Wisconsin,Green County,22.8,23.3,0.5
+Wisconsin,Green Lake County,23.3,24.6,1.3
+Wisconsin,Iowa County,25.6,26.2,0.6
+Wisconsin,Iron County,19.8,20.9,1.1
+Wisconsin,Jackson County,21.3,22.2,0.9
+Wisconsin,Jefferson County,22.9,23.8,0.9
+Wisconsin,Juneau County,22.1,23.7,1.6
+Wisconsin,Kenosha County,25.9,25.9,0
+Wisconsin,Kewaunee County,23.2,23,-0.2
+Wisconsin,La Crosse County,18.1,18,-0.1
+Wisconsin,Lafayette County,24.7,24.6,-0.1
+Wisconsin,Langlade County,19.3,21.3,2
+Wisconsin,Lincoln County,22.6,22.7,0.1
+Wisconsin,Manitowoc County,19.1,18.7,-0.4
+Wisconsin,Marathon County,18.7,19.5,0.8
+Wisconsin,Marinette County,20.3,19.8,-0.5
+Wisconsin,Marquette County,27.2,30,2.8
+Wisconsin,Menominee County,25,16.9,-8.1
+Wisconsin,Milwaukee County,21.5,22.4,0.9
+Wisconsin,Monroe County,19.5,19.8,0.3
+Wisconsin,Oconto County,26.2,26.6,0.4
+Wisconsin,Oneida County,18.9,19.8,0.9
+Wisconsin,Outagamie County,19.3,19.8,0.5
+Wisconsin,Ozaukee County,22.5,23.8,1.3
+Wisconsin,Pepin County,25.6,26.3,0.7
+Wisconsin,Pierce County,27.1,25.9,-1.2
+Wisconsin,Polk County,27.9,29.1,1.2
+Wisconsin,Portage County,18.6,18.8,0.2
+Wisconsin,Price County,19.8,19.2,-0.6
+Wisconsin,Racine County,22.8,24.2,1.4
+Wisconsin,Richland County,23,24.4,1.4
+Wisconsin,Rock County,21.5,22.8,1.3
+Wisconsin,Rusk County,22,21.4,-0.6
+Wisconsin,St. Croix County,26.4,27.9,1.5
+Wisconsin,Sauk County,21,21.4,0.4
+Wisconsin,Sawyer County,20.3,20.3,0
+Wisconsin,Shawano County,23,23.1,0.1
+Wisconsin,Sheboygan County,18.2,18.2,0
+Wisconsin,Taylor County,21.5,22.6,1.1
+Wisconsin,Trempealeau County,21.2,22.3,1.1
+Wisconsin,Vernon County,22.8,24.5,1.7
+Wisconsin,Vilas County,19.4,19.5,0.1
+Wisconsin,Walworth County,24.3,24,-0.3
+Wisconsin,Washburn County,22.3,22,-0.3
+Wisconsin,Washington County,23.4,24.6,1.2
+Wisconsin,Waukesha County,23.1,24,0.9
+Wisconsin,Waupaca County,20.9,23.2,2.3
+Wisconsin,Waushara County,26.3,26.4,0.1
+Wisconsin,Winnebago County,17.7,18.2,0.5
+Wisconsin,Wood County,18.5,19.7,1.2
+Wyoming,Albany County,12.3,12.7,0.4
+Wyoming,Big Horn County,20.2,18.8,-1.4
+Wyoming,Campbell County,20.8,20.7,-0.1
+Wyoming,Carbon County,15.6,16.3,0.7
+Wyoming,Converse County,30.2,23.8,-6.4
+Wyoming,Crook County,22.6,28,5.4
+Wyoming,Fremont County,19.3,17.9,-1.4
+Wyoming,Goshen County,19.5,18.7,-0.8
+Wyoming,Hot Springs County,17.2,19.6,2.4
+Wyoming,Johnson County,16.5,24.6,8.1
+Wyoming,Laramie County,15.8,15.8,0
+Wyoming,Lincoln County,24.3,26.2,1.9
+Wyoming,Natrona County,17.7,17.2,-0.5
+Wyoming,Niobrara County,14.8,15.1,0.3
+Wyoming,Park County,17.6,17.6,0
+Wyoming,Platte County,16.9,16.9,0
+Wyoming,Sheridan County,17.9,16,-1.9
+Wyoming,Sublette County,24.2,20.9,-3.3
+Wyoming,Sweetwater County,22.3,20.5,-1.8
+Wyoming,Teton County,14.9,14.3,-0.6
+Wyoming,Uinta County,21.7,19.9,-1.8
+Wyoming,Washakie County,12.8,14.3,1.5
+Wyoming,Weston County,25.2,25.7,0.5
