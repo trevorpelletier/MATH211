@@ -1,4 +1,4 @@
-Year,Term,Time,Modality,Days,Course,Percentage Grade,Decimal Grade
+year,term,time,modality,days,course,pct_grade,d_grade
 2019,Winter,8:30,In-person,,152,0,0
 2020,Fall,,Online (covid),,146 Coreq,0,0
 2020,Fall,,Online (covid),,146 Coreq,0,0
@@ -1104,3 +1104,4 @@ Year,Term,Time,Modality,Days,Course,Percentage Grade,Decimal Grade
 2019,Summer,12:00,In-person,,152,103.53,4
 2020,Fall,9:30,In-person,,146 Coreq,103.54,4
 2019,Fall,9:30,In-person,,146 Coreq,107.83,4
+
