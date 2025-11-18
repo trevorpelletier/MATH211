@@ -1,4 +1,4 @@
-year,term,time,modalithy,days,course,pct_grade,d_grade
+year,term,time,modality,days,course,pct_grade,d_grade
 2021,Fall,12:30,"Hybrid, 1 hour",,146 Coreq,0,0
 2021,Fall,8:30,"Hybrid, 1 hour",,146,0,0
 2023,Winter,11:30,"Hybrid, 1 hour",TTh,151,0,0
@@ -1104,3 +1104,4 @@ year,term,time,modalithy,days,course,pct_grade,d_grade
 2021,Winter,,Online (covid),,146 Coreq,102.29,4
 2021,Winter,,Online (covid),,146,102.43,4
 2021,Winter,,Online (covid),,146,102.98,4
+
